@@ -1,0 +1,6 @@
+package br.com.delphos.billing.client.clientsample;
+
+import br.com.delphos.billing.client.*;
+
+public class ClientSample {
+}

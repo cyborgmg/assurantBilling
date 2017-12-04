@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_3.dtd">
+
+
+<struts-config>
+    <form-beans>
+    	<form-bean name="EsqueceuSenhaActionForm" type="br.com.delphos.web.usuarios.EsqueceuSenhaActionForm"/>
+        <form-bean name="ReiniciarSenhaActionForm" type="br.com.delphos.web.usuarios.ReiniciarSenhaActionForm"/>
+        <form-bean name="LoginActionForm" type="br.com.delphos.web.seguranca.LoginActionForm"/>
+        <form-bean name="SenhaUsuarioActionForm" type="br.com.delphos.web.usuarios.SenhaUsuarioActionForm"/>
+        <form-bean name="VendasActionForm" type="br.com.delphos.web.vendas.VendasActionForm"/>
+        <form-bean name="GerarRelatorioVendasActionForm" type="br.com.delphos.web.relatorios.GerarRelatorioVendasActionForm" />
+        <form-bean name="LogsActionForm" type="br.com.delphos.web.logs.LogsActionForm"/>
+        <form-bean name="ConfiguracaoActionForm" type="br.com.delphos.web.configuracao.ConfiguracaoActionForm"/>
+        <form-bean name="ConciliacaoActionForm" type="br.com.delphos.web.conciliacao.ConciliacaoActionForm"/>
+    </form-beans>
+    <global-exceptions>
+    
+    </global-exceptions>
+
+    <global-forwards>
+        <forward name="inicio" path="/principal/index.jsp" redirect="false" /> 
+        <forward name="login" path="/login/login.jsp"/>  
+        <forward name="resultado" path="/venda/resultado.jsp"/>  
+        <forward name="exibir" path="/venda/exibir.jsp"/>  
+        <forward name="prepararVenda" path="/venda/vendas.jsp" redirect="false" />  
+        <forward name="prepararConsultaLogs" path="/logs/logs.jsp" redirect="false" />
+        <forward name="editarMeioPagamento" path="/configuracao/manterMeioPagamento.jsp" redirect="false" />
+        <forward name="editarProvedorMeioPagamento" path="/configuracao/manterProvedorMeioPagamento.jsp" redirect="false" />
+        <forward name="listarProvedorMeioPagamento" path="/pesquisa/pesquisarProvedor.jsp" redirect="false" />
+        <forward name="editarAdquirente" path="/configuracao/manterAdquirente.jsp" redirect="false" />
+        <forward name="editarBandeira" path="/configuracao/manterBandeira.jsp" redirect="false" />
+        <forward name="editarContratoCobranca" path="/configuracao/manterContratoCobranca.jsp" redirect="false" />
+        <forward name="listarContratoCobranca" path="/pesquisa/pesquisarContratoCobranca.jsp" redirect="false" />
+        <forward name="editarRespostaAutorizacao" path="/configuracao/manterRespostaAutorizacao.jsp" redirect="false" />
+        <forward name="editarListaValor" path="/configuracao/manterListaValor.jsp" redirect="false" />
+        <forward name="editarItemLista" path="/configuracao/manterItemLista.jsp" redirect="false" />
+        <forward name="editarProduto" path="/configuracao/manterProduto.jsp" redirect="false" />
+        <forward name="editarSistema" path="/configuracao/manterSistema.jsp" redirect="false" />
+        <forward name="editarEmpresa" path="/configuracao/manterEmpresa.jsp" redirect="false" />
+        <forward name="associarAdquirente" path="/configuracao/associarAdquirente.jsp" redirect="false" />
+        <forward name="listarEmpresa" path="/pesquisa/pesquisarEmpresa.jsp" redirect="false" />
+        <forward name="listarProduto" path="/pesquisa/pesquisarProduto.jsp" redirect="false" />
+        <forward name="listarSistema" path="/pesquisa/pesquisarSistema.jsp" redirect="false" />
+        <forward name="listarMeioPagamento" path="/pesquisa/pesquisarMeioPagamento.jsp" redirect="false" />
+        <forward name="listarProvedor" path="/pesquisa/pesquisarProvedor.jsp" redirect="false" />
+        <forward name="listarAdquirente" path="/pesquisa/pesquisarAdquirente.jsp" redirect="false" />
+        <forward name="listarBandeira" path="/pesquisa/pesquisarBandeira.jsp" redirect="false" />
+        <forward name="listarListaValor" path="/pesquisa/pesquisarListaValor.jsp" redirect="false" />
+        <forward name="listarItemLista" path="/configuracao/associarItemLista.jsp" redirect="false" />
+        <forward name="associarItemLista" path="/configuracao/associarItemLista.jsp" redirect="false" />
+        <forward name="reiniciarSenha" path="/login/reiniciarSenha.jsp"/>  
+        <forward name="listarConciliacao" path="/conciliacao/pesquisarConciliacao.jsp" redirect="false" />
+        <forward name="editarConciliacao" path="/conciliacao/manterConciliacao.jsp" redirect="false" />
+    </global-forwards>
+
+    <action-mappings>
+       
+        <action 
+            input="/relatorios/gerarRelatorioVendas.jsp" 
+            name="GerarRelatorioVendasActionForm" 
+            path="/relatorios/gerarRelatorioVendas" 
+            scope="request" 
+            type="br.com.delphos.web.relatorios.GerarRelatorioVendasAction"
+        />
+        
+        <action 
+            input="/venda/exibir.jsp" 
+            name="VendasActionForm" 
+            path="/venda/exibir" 
+            scope="request" 
+            type="br.com.delphos.web.vendas.ExibirAction"
+            validate="false"
+        />
+        <action 
+            input="/login/login.jsp"
+            name="LoginActionForm"
+            path="/login/autenticar"
+            scope="request"
+            type="br.com.delphos.web.seguranca.LoginAction"
+            validate="false"
+        />
+        <action 
+            input="/login/trocarSenha.jsp"
+            name="SenhaUsuarioActionForm" 
+            path="/login/alterarSenha" 
+            scope="request"
+            type="br.com.delphos.web.usuarios.AlterarSenhaAction"
+        />
+        <action 
+            input="/login/esqueceuSenha.jsp" 
+            name="EsqueceuSenhaActionForm" 
+            path="/login/esqueceuSenha" 
+            scope="request" 
+            type="br.com.delphos.web.usuarios.EsqueceuSenhaAction"
+        />
+        <action 
+            input="/venda/vendas.jsp" 
+            name="VendasActionForm" 
+            path="/venda/resultado" 
+            scope="request" 
+            type="br.com.delphos.web.vendas.VendasAction"
+        />
+        <action 
+            input="/venda/resultado.jsp" 
+            name="VendasActionForm" 
+            path="/venda/detalharVenda" 
+            scope="request" 
+            type="br.com.delphos.web.vendas.DetalharVendasAction"
+            validate="false"
+        />
+        <action 
+            input="/principal/index.jsp" 
+            name="VendasActionForm" 
+            path="/venda/prepararVenda" 
+            scope="request" 
+            type="br.com.delphos.web.vendas.PrepararVendaAction"
+            validate="false"
+        />
+        <action 
+            input="/principal/index.jsp" 
+            name="LogsActionForm" 
+            path="/logs/prepararConsultaLogs" 
+            scope="request" 
+            type="br.com.delphos.web.logs.PrepararConsultaLogAction"
+            validate="false"
+        />
+        <action 
+            input="/logs/logs.jsp" 
+            name="LogsActionForm" 
+            path="/logs/resultado" 
+            scope="request" 
+            type="br.com.delphos.web.logs.LogsAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarMeioPagamento.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoMeioPagamento" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.MeioPagamentoAction"
+        />
+        <action 
+            input="/configuracao/manterMeioPagamento.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterMeioPagamento" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.MeioPagamentoAction"
+        />
+        <action 
+            input="/configuracao/manterMeioPagamento.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarMeioPagamento" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarMeioPagamentoAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararProvedorMeioPagamento" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararProvedorMeioPagamentoAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarProvedor.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoProvedorMeioPagamento" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ProvedorMeioPagamentoAction"
+        />
+        <action 
+            input="/configuracao/manterProvedorMeioPagamento.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterProvedorMeioPagamento" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ProvedorMeioPagamentoAction"
+        />
+        <action 
+            input="/configuracao/manterProvedorMeioPagamento.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarProvedorMeioPagamento" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarProvedorMeioPagamentoAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarAdquirente.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoAdquirente" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.AdquirenteAction"
+        />
+        <action 
+            input="/configuracao/manterAdquirente.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterAdquirente" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.AdquirenteAction"
+        />
+        <action 
+            input="/configuracao/manterAdquirente.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarAdquirente" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarAdquirenteAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararAdquirente" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararAdquirenteAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarBandeira.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoBandeira" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.BandeiraAction"
+        />
+        <action 
+            input="/configuracao/manterBandeira.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterBandeira" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.BandeiraAction"
+        />
+        <action 
+            input="/configuracao/manterBandeira.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarBandeira" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarBandeiraAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararBandeira" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararBandeiraAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarContratoCobranca.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoContratoCobranca" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ContratoCobrancaAction"
+        />
+        <action 
+            input="/configuracao/manterContratoCobranca.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterContratoCobranca" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ContratoCobrancaAction"
+        />
+        <action 
+            input="/configuracao/manterContratoCobranca.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarContratoCobranca" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarContratoCobrancaAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararContratoCobranca" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararContratoCobrancaAction"
+        />
+        <action 
+            input="/configuracao/manterRespostaAutorizacao.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoRespostaAutorizacao" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.RespostaAutorizacaoAction"
+        />
+        <action 
+            input="/configuracao/manterRespostaAutorizacao.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterRespostaAutorizacao" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.RespostaAutorizacaoAction"
+        />
+        <action 
+            input="/configuracao/manterRespostaAutorizacao.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarRespostaAutorizacao" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarRespostaAutorizacaoAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarListaValor.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoListaValor" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ListaValorAction"
+        />
+        <action 
+            input="/configuracao/manterListaValor.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterListaValor" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ListaValorAction"
+        />
+        <action 
+            input="/configuracao/manterListaValor.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarListaValor" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarListaValorAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararListaValor" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararListaValorAction"
+        />
+        <action 
+            input="/configuracao/associarItemLista.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/associarItemLista" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ItemListaAction"
+        />
+        <action 
+            input="/configuracao/associarItemLista.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoItemLista" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ItemListaAction"
+        />
+        <action 
+            input="/configuracao/manterItemLista.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterItemLista" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ItemListaAction"
+        />
+        <action 
+            input="/configuracao/manterItemLista.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarItemLista" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarItemListaAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarProduto.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoProduto" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ListarProdutoAction"
+        />
+        <action 
+            input="/configuracao/manterProduto.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterProduto" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ProdutoAction"
+        />
+        <action 
+            input="/configuracao/manterProduto.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarProduto" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarProdutoAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararProduto" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararProdutoAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarSistema.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.SistemaAction"
+        />
+        <action 
+            input="/configuracao/manterSistema.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.SistemaAction"
+        />
+        <action 
+            input="/configuracao/manterSistema.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarSistemaAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararSistemaAction"
+        />
+        <action 
+            input="/configuracao/manterEmpresa.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararEmpresa"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.AssociarAction"
+        />
+        <action 
+            input="/configuracao/manterEmpresa.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarEmpresa" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarEmpresaAction"
+        />
+        <action 
+            input="/configuracao/associarAdquirente.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/associarAdquirente" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.AssociarAction"
+        />
+        <action 
+            input="/configuracao/associarAdquirente.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarAssociacaoAdquirente" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarAssociacaoAdquirenteAction"
+        />        
+        <action 
+            input="/pesquisa/pesquisarEmpresa.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoEmpresa" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ListarEmpresaAction"
+        />
+        <action 
+            input="/login/reiniciarSenha.jsp" 
+            name="ReiniciarSenhaActionForm" 
+            path="/login/reiniciarSenha" 
+            scope="request" 
+            type="br.com.delphos.web.usuarios.ReiniciarSenhaAction"
+        />
+        <action 
+            input="" 
+            name="ReiniciarSenhaActionForm" 
+            path="/login/reiniciar" 
+            scope="request" 
+            type="br.com.delphos.web.usuarios.ReiniciarAction"
+            validate="false"
+        />
+        <action 
+            input="/conciliacao/pesquisarConciliacao.jsp" 
+            name="ConciliacaoActionForm" 
+            path="/conciliacao/resultadoConciliacao" 
+            scope="request" 
+            type="br.com.delphos.web.conciliacao.ListarConciliacaoAction"
+        />
+        <action 
+            input="/conciliacao/pesquisarConciliacao.jsp" 
+            name="ConciliacaoActionForm" 
+            path="/conciliacao/editarConciliacao" 
+            scope="request" 
+            type="br.com.delphos.web.conciliacao.EditarConciliacaoAction"
+        />
+        <action 
+            input="/conciliacao/pesquisarConciliacao.jsp" 
+            name="ConciliacaoActionForm" 
+            path="/conciliacao/manterConciliacao" 
+            scope="request" 
+            type="br.com.delphos.web.conciliacao.ConciliacaoAction"
+        />
+        <action 
+            input="/conciliacao/manterConciliacao.jsp" 
+            name="ConciliacaoActionForm" 
+            path="/conciliacao/manterConciliacao" 
+            scope="request" 
+            type="br.com.delphos.web.conciliacao.ConciliacaoAction"
+        />
+        <action 
+            input="/conciliacao/pesquisarConciliacao.jsp" 
+            name="ConciliacaoActionForm" 
+            path="/conciliacao/prepararConciliacao" 
+            scope="request" 
+            type="br.com.delphos.web.conciliacao.ListarConciliacaoAction"
+        />
+    </action-mappings>
+    
+    <controller processorClass="org.apache.struts.tiles.TilesRequestProcessor"/>
+
+    <message-resources parameter="br/com/delphos/web/ApplicationResource"/>   
+    
+    <!-- ========================= Tiles plugin ===============================-->
+    <!--
+    This plugin initialize Tiles definition factory. This later can takes some
+    parameters explained here after. The plugin first read parameters from
+    web.xml, thenoverload them with parameters defined here. All parameters
+    are optional.
+    The plugin should be declared in each struts-config file.
+    - definitions-config: (optional)
+    Specify configuration file names. There can be several comma
+    separated file names (default: ?? )
+    - moduleAware: (optional - struts1.1)
+    Specify if the Tiles definition factory is module aware. If true
+    (default), there will be one factory for each Struts module.
+    If false, there will be one common factory for all module. In this
+    later case, it is still needed to declare one plugin per module.
+    The factory will be initialized with parameters found in the first
+    initialized plugin (generally the one associated with the default
+    module).
+    true : One factory per module. (default)
+    false : one single shared factory for all modules
+    - definitions-parser-validate: (optional)
+    Specify if xml parser should validate the Tiles configuration file.
+    true : validate. DTD should be specified in file header (default)
+    false : no validation
+
+    Paths found in Tiles definitions are relative to the main context.
+    -->
+    <plug-in className="org.apache.struts.tiles.TilesPlugin" >
+        <set-property property="definitions-config" value="/WEB-INF/tiles-defs.xml" />      
+        <set-property property="moduleAware" value="true" />
+    </plug-in>
+    
+    <!-- ========================= Validator plugin ================================= -->
+    <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+        <set-property
+            property="pathnames"
+            value="/WEB-INF/validator-rules.xml,/WEB-INF/validation.xml"/>
+    </plug-in>
+  
+</struts-config>

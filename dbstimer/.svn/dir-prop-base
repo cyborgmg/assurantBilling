@@ -1,0 +1,14 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 4
+bin
+
+K 13
+svn:mergeinfo
+V 65
+/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/stable:31544-33666
+END

@@ -1,0 +1,14 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 4
+bin
+
+K 13
+svn:mergeinfo
+V 66
+/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/stable:31543-33675
+END

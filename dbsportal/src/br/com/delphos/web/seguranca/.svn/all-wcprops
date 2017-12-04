@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Delphos/!svn/ver/32545/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca
+END
+FiltroConfiguracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca/FiltroConfiguracao.java
+END
+FiltroControleAcesso.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/32545/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca/FiltroControleAcesso.java
+END
+LoginAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/32475/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca/LoginAction.java
+END
+LogoutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca/LogoutAction.java
+END
+AcessarTelaPrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca/AcessarTelaPrincipal.java
+END
+Criptografia.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca/Criptografia.java
+END
+LoginActionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/seguranca/LoginActionForm.java
+END

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<classpathProviders>
+  <fileset excludes="**/jsf-api-1.2*.jar" folder="modules/system/layers/base/javax" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/hibernate/validator" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/resteasy" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/picketbox" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/jboss/as/controller-client/main/" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/jboss/dmr/main/" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/jboss/logging/main" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/jboss/ejb3/main" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/apache/cxf" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/apache/cxf/impl" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/springframework/spring/main" includes="**/*.jar" name=""/>
+  <fileset excludes="" folder="modules/system/layers/base/org/apache/ws/security/main" includes="**/*.jar" name=""/>
+</classpathProviders>

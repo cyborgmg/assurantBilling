@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login
+END
+reiniciarSenha.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/reiniciarSenha.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/login.jsp
+END
+nautor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/nautor.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Delphos/!svn/ver/30083/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/logout.jsp
+END
+trocarSenha.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Delphos/!svn/ver/31925/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/trocarSenha.jsp
+END
+cadastrarUsuario.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Delphos/!svn/ver/31525/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/cadastrarUsuario.jsp
+END
+esqueceuSenha.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/esqueceuSenha.jsp
+END
+urlBloqueada.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Delphos/!svn/ver/29487/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/login/urlBloqueada.jsp
+END

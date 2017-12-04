@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://servicos.billing.delphos.com.br/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="ServicoServerImplService" targetNamespace="http://servicos.billing.delphos.com.br/">
+  <wsdl:types>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://servicos.billing.delphos.com.br/" attributeFormDefault="unqualified" elementFormDefault="unqualified" targetNamespace="http://servicos.billing.delphos.com.br/">
+  <xs:complexType name="retornoIniciarVendaCartaoCredito">
+    <xs:complexContent>
+      <xs:extension base="tns:retornoBillingService">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="codigoProduto" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoVenda" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoVendaBilling" type="xs:string"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType abstract="true" name="retornoBillingService">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="retorno" type="xs:string"/>
+      <xs:element minOccurs="0" name="mensagemRetorno" type="xs:string"/>
+      <xs:element minOccurs="0" name="codigoErro" type="xs:string"/>
+      <xs:element minOccurs="0" name="mensagemErro" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="retornoCancelarVenda">
+    <xs:complexContent>
+      <xs:extension base="tns:retornoBillingService">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="codigoProduto" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoVenda" type="xs:string"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="BillingException" type="tns:BillingException"/>
+  <xs:complexType name="BillingException">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codigoErro" type="xs:string"/>
+      <xs:element minOccurs="0" name="mensagemErro" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+  </wsdl:types>
+  <wsdl:message name="iniciarVendaCartaoCredito">
+    <wsdl:part name="arg0" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg1" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg2" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg3" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg4" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg5" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg6" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg7" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg8" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg9" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg10" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg11" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg12" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg13" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg14" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg15" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg16" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg17" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg18" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg19" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg20" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg21" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg22" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg23" type="xsd:string">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="cancelarVenda">
+    <wsdl:part name="arg0" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg1" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg2" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg3" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg4" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg5" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg6" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg7" type="xsd:string">
+    </wsdl:part>
+    <wsdl:part name="arg8" type="xsd:string">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="sayHelloResponse">
+    <wsdl:part name="return" type="xsd:string">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="sayHello">
+    <wsdl:part name="arg0" type="xsd:string">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="BillingException">
+    <wsdl:part element="tns:BillingException" name="BillingException">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="cancelarVendaResponse">
+    <wsdl:part name="return" type="tns:retornoCancelarVenda">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="iniciarVendaCartaoCreditoResponse">
+    <wsdl:part name="return" type="tns:retornoIniciarVendaCartaoCredito">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="ServicoServer">
+    <wsdl:operation name="sayHello">
+      <wsdl:input message="tns:sayHello" name="sayHello">
+    </wsdl:input>
+      <wsdl:output message="tns:sayHelloResponse" name="sayHelloResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="iniciarVendaCartaoCredito">
+      <wsdl:input message="tns:iniciarVendaCartaoCredito" name="iniciarVendaCartaoCredito">
+    </wsdl:input>
+      <wsdl:output message="tns:iniciarVendaCartaoCreditoResponse" name="iniciarVendaCartaoCreditoResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:BillingException" name="BillingException">
+    </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarVenda">
+      <wsdl:input message="tns:cancelarVenda" name="cancelarVenda">
+    </wsdl:input>
+      <wsdl:output message="tns:cancelarVendaResponse" name="cancelarVendaResponse">
+    </wsdl:output>
+      <wsdl:fault message="tns:BillingException" name="BillingException">
+    </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServicoServerImplServiceSoapBinding" type="tns:ServicoServer">
+    <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="sayHello">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="sayHello">
+        <soap:body namespace="http://servicos.billing.delphos.com.br/" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="sayHelloResponse">
+        <soap:body namespace="http://servicos.billing.delphos.com.br/" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="iniciarVendaCartaoCredito">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="iniciarVendaCartaoCredito">
+        <soap:body namespace="http://servicos.billing.delphos.com.br/" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="iniciarVendaCartaoCreditoResponse">
+        <soap:body namespace="http://servicos.billing.delphos.com.br/" use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="BillingException">
+        <soap:fault name="BillingException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarVenda">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="cancelarVenda">
+        <soap:body namespace="http://servicos.billing.delphos.com.br/" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="cancelarVendaResponse">
+        <soap:body namespace="http://servicos.billing.delphos.com.br/" use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="BillingException">
+        <soap:fault name="BillingException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicoServerImplService">
+    <wsdl:port binding="tns:ServicoServerImplServiceSoapBinding" name="ServicoServerImplPort">
+      <soap:address location="http://localhost:8080/dbs-war/services/servicoserver"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

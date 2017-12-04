@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Delphos/!svn/ver/33802/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos
+END
+CancelamentoTimerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/CancelamentoTimerBean.java
+END
+CancelamentoTimerTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/CancelamentoTimerTasks.java
+END
+ConciliacaoTimerTasksBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/33795/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/ConciliacaoTimerTasksBean.java
+END
+ConciliacaoTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/ConciliacaoTimer.java
+END
+CancelamentoTimerTasksBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/CancelamentoTimerTasksBean.java
+END
+TimerTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/TimerTasks.java
+END
+AbstractTimerTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/AbstractTimerTasks.java
+END
+CancelamentoTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/CancelamentoTimer.java
+END
+ConciliacaoTimerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/33802/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/ConciliacaoTimerBean.java
+END
+ConciliacaoTimerTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/33739/Desenv/Projetos/Web/Java/Billing/dbs/dbstimer/trunk/src/br/com/delphos/servicos/ConciliacaoTimerTasks.java
+END

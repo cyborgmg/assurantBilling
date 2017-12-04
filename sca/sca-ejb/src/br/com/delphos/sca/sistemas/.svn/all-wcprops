@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/33428/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/sistemas
+END
+SistemaDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/33428/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/sistemas/SistemaDAOBean.java
+END
+SistemaDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Delphos/!svn/ver/31970/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/sistemas/SistemaDLO.java
+END
+Sistema.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Delphos/!svn/ver/32736/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/sistemas/Sistema.java
+END
+SistemaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Delphos/!svn/ver/31970/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/sistemas/SistemaDAO.java
+END
+SistemaDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/31970/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/sistemas/SistemaDLOBean.java
+END

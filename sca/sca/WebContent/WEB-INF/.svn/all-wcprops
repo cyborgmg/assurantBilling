@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Delphos/!svn/ver/33580/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/WEB-INF
+END
+delphos-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/32094/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/WEB-INF/delphos-html.tld
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Delphos/!svn/ver/33580/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/WEB-INF/struts-config.xml
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Delphos/!svn/ver/31801/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/WEB-INF/validation.xml
+END
+validator-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Delphos/!svn/ver/31801/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/WEB-INF/validator-rules.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Delphos/!svn/ver/31970/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/WEB-INF/web.xml
+END
+tiles-defs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Delphos/!svn/ver/31801/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/WEB-INF/tiles-defs.xml
+END

@@ -1,0 +1,14 @@
+<jboss-deployment-structure><!--  xmlns="urn:jboss:deployment-structure:1.2" -->
+<!-- 	<module name="deployment.dbs.jar.dbs-lib.jar"> -->
+<!-- 		<dependencies></dependencies> -->
+<!-- 		<resources> -->
+<!-- 			<resource-root path="dbs-lib.jar"></resource-root> -->
+<!-- 		</resources> -->
+<!-- 	</module> -->
+	<deployment>
+		<dependencies>
+		    <module name=org.apache.cxf" export="true" meta-inf="export"/>
+			<module name="deployment.dbs-lib.jar" />			
+		</dependencies>
+	</deployment>
+</jboss-deployment-structure>

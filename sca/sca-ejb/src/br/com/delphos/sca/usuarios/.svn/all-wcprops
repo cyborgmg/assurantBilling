@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios
+END
+UsuarioDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/33551/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/UsuarioDAOBean.java
+END
+GrupoUsuarioDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/32110/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/GrupoUsuarioDLO.java
+END
+GrupoUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/32736/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/GrupoUsuario.java
+END
+UsuarioDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Delphos/!svn/ver/32070/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/UsuarioDLO.java
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Delphos/!svn/ver/32736/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/Usuario.java
+END
+GrupoUsuarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/32110/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/GrupoUsuarioDAO.java
+END
+GrupoUsuarioDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/33360/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/GrupoUsuarioDLOBean.java
+END
+UsuarioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Delphos/!svn/ver/32070/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/UsuarioDAO.java
+END
+UsuarioDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/UsuarioDLOBean.java
+END
+GrupoUsuarioDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32110/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/usuarios/GrupoUsuarioDAOBean.java
+END

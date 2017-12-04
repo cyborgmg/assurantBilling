@@ -1,0 +1,4 @@
+package br.com.delphos.billing.client.clientsample;
+
+public class ClientSample {
+}

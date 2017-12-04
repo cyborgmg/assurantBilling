@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao
+END
+PrepararGrupoUsuarioAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/PrepararGrupoUsuarioAction.java
+END
+PrepararSistemaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/PrepararSistemaAction.java
+END
+GrupoUsuarioAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/32965/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/GrupoUsuarioAction.java
+END
+ConfiguracaoDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/32382/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/ConfiguracaoDecorator.java
+END
+SistemaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/SistemaAction.java
+END
+EditarGrupoInterfaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/32832/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/EditarGrupoInterfaceAction.java
+END
+AutoCompleteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32070/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/AutoCompleteServlet.java
+END
+PrepararGrupoInterfaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/PrepararGrupoInterfaceAction.java
+END
+ListarEmpresaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32832/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/ListarEmpresaAction.java
+END
+GrupoInterfaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/32965/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/GrupoInterfaceAction.java
+END
+ListarInterfaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/ListarInterfaceAction.java
+END
+EditarUsuarioAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32832/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/EditarUsuarioAction.java
+END
+ConfiguracaoActionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/33392/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/ConfiguracaoActionForm.java
+END
+PrepararUsuarioAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/PrepararUsuarioAction.java
+END
+EditarEmpresaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32736/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/EditarEmpresaAction.java
+END
+UsuarioAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/UsuarioAction.java
+END
+PrepararEmpresaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/33580/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/PrepararEmpresaAction.java
+END
+EditarInterfaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/32965/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/EditarInterfaceAction.java
+END
+EmpresaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/EmpresaAction.java
+END
+EditarGrupoUsuarioAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/32832/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/EditarGrupoUsuarioAction.java
+END
+ConfiguracaoViewHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/ConfiguracaoViewHelper.java
+END
+PrepararInterfaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/33243/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/PrepararInterfaceAction.java
+END
+EditarSistemaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32727/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/src/br/com/delphos/web/configuracao/EditarSistemaAction.java
+END

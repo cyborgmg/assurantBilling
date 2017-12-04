@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Delphos/!svn/ver/33725/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/persistencia
+END
+AbstractDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/33725/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/persistencia/AbstractDLO.java
+END
+InterceptorChamadaLogada.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/32449/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/persistencia/InterceptorChamadaLogada.java
+END
+ChamadaLogada.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32449/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/persistencia/ChamadaLogada.java
+END
+AbstractDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/33466/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/persistencia/AbstractDAO.java
+END

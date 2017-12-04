@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/constantes
+END
+CodigoParametro.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/31841/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/constantes/CodigoParametro.java
+END
+PropriedadeConfiguracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/constantes/PropriedadeConfiguracao.java
+END
+CodigoMensagem.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/constantes/CodigoMensagem.java
+END
+OperacaoUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/constantes/OperacaoUsuario.java
+END
+ConstantesSca.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/31841/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/constantes/ConstantesSca.java
+END
+TipoRecuperacaoFalhaServico.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/constantes/TipoRecuperacaoFalhaServico.java
+END

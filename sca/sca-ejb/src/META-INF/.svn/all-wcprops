@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/META-INF
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/31782/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/META-INF/logging.properties
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/META-INF/persistence.xml
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Delphos/!svn/ver/31782/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/META-INF/MANIFEST.MF
+END

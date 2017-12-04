@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes
+END
+Configuracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Configuracao.java
+END
+ResourceBundles.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/ResourceBundles.java
+END
+ConfiguracaoSincronizada.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/ConfiguracaoSincronizada.java
+END
+ResolvedorSincronizado.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/ResolvedorSincronizado.java
+END
+Conversores.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Conversores.java
+END
+ConfiguracoesUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/ConfiguracoesUtils.java
+END
+Resolvedores.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Resolvedores.java
+END
+ConversorSimples.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/ConversorSimples.java
+END
+TipoValor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/TipoValor.java
+END
+Conversor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Conversor.java
+END
+ResolvedorSimples.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/ResolvedorSimples.java
+END
+Propriedades.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Propriedades.java
+END
+Resolvedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Resolvedor.java
+END
+Configuracoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Configuracoes.java
+END
+PropriedadeSimples.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/PropriedadeSimples.java
+END
+ConfiguracaoSimples.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/31923/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/ConfiguracaoSimples.java
+END
+Propriedade.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/configuracoes/Propriedade.java
+END

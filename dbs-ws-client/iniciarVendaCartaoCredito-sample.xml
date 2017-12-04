@@ -1,0 +1,55 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bil="http://delphos.com.br/billing">
+<soapenv:Header/>
+  <soapenv:Body>
+  <bil:iniciarVendaCartaoCredito>
+     <!--Optional:-->
+        <token>6724224222423412726221723523412724226124999229206221206206206229</token>
+        <!--Optional:-->
+        <codigoEmpresa>AIZ</codigoEmpresa>
+        <!--Optional:-->
+        <codigoProduto>PYB</codigoProduto>
+        <!--Optional:-->
+        <codigoSistema>BMS</codigoSistema>
+        <!--Optional:-->
+        <cpf>50434483346</cpf>
+        <!--Optional:-->
+        <nome>MACHADO DE ASSIS</nome>
+        <!--Optional:-->
+        <email>teste@teste.com</email>
+        <!--Optional:-->
+        <dddCelular>21</dddCelular>
+        <!--Optional:-->
+        <telefoneCelular>99588562</telefoneCelular>
+        <!--Optional:-->
+        <dddContato>21</dddContato>
+        <!--Optional:-->
+        <telefoneContato>22730419</telefoneContato>
+        <!--Optional:-->
+        <codigoVenda>TST-DPH-001</codigoVenda>
+        <!--Optional:-->
+        <dataVenda>10/11/2015</dataVenda>
+        <!--Optional:-->
+        <bandeiraCartao>01</bandeiraCartao>
+        <!--Optional:-->
+        <cpfPortadorCartao>88523123822</cpfPortadorCartao>
+        <!--Optional:-->
+        <nomePortadorCartao>MACHADO DE ASSIS</nomePortadorCartao>
+        <!--Optional:-->
+        <numeroCartao>0000000000000001</numeroCartao>
+        <!--Optional:-->
+        <vencimentoCartao>02/2017</vencimentoCartao>
+        <!--Optional:-->
+        <cvvCartao>111</cvvCartao>
+        <!--Optional:-->
+        <tipoCobranca>002</tipoCobranca>
+        <!--Optional:-->
+        <quantidadeParcelas>10</quantidadeParcelas>
+        <!--Optional:-->
+        <valorCobranca>55416</valorCobranca>
+        <!--Optional:-->
+        <dataPrimeiraCobranca>10/11/2015</dataPrimeiraCobranca>
+        <!--Optional:-->
+        <dataFimVigencia>10/11/2016</dataFimVigencia>
+     </bil:iniciarVendaCartaoCredito>
+  </soapenv:Body>
+</soapenv:Envelope>

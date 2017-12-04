@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Delphos/!svn/ver/33551/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces
+END
+InterfaceDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/32528/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/InterfaceDLO.java
+END
+Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/32736/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/Interface.java
+END
+GrupoInterfaceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/32721/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/GrupoInterfaceDAO.java
+END
+GrupoInterfaceDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/32721/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/GrupoInterfaceDLOBean.java
+END
+InterfaceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/32382/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/InterfaceDAO.java
+END
+InterfaceDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/32721/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/InterfaceDLOBean.java
+END
+GrupoInterfaceDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/32832/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/GrupoInterfaceDAOBean.java
+END
+InterfaceDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/33551/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/InterfaceDAOBean.java
+END
+GrupoInterfaceDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/32721/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/GrupoInterfaceDLO.java
+END
+GrupoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/32736/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/gruposInterfaces/GrupoInterface.java
+END

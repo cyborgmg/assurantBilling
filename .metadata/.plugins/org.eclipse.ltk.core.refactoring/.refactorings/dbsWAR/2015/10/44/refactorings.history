@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;dbsWAR&apos;&#x0D;&#x0A;- Original project: &apos;dbsWAR&apos;&#x0D;&#x0A;- Original element: &apos;dbsWAR/src/br.com.delphos.billing.braspag.servicos&apos;" description="Delete element" element1="/src&lt;br.com.delphos.billing.braspag.servicos" element2="/src&lt;br.com.delphos.billing.braspag" element3="/src&lt;br.com.delphos.billing" element4="/src&lt;br.com.delphos" element5="/src&lt;br.com" element6="/src&lt;br" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1446216194803" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_3.dtd">
+
+
+<struts-config>
+    <form-beans>
+    	<form-bean name="EsqueceuSenhaActionForm" type="br.com.delphos.web.usuarios.EsqueceuSenhaActionForm"/>
+        <form-bean name="ReiniciarSenhaActionForm" type="br.com.delphos.web.usuarios.ReiniciarSenhaActionForm"/>
+        <form-bean name="LoginActionForm" type="br.com.delphos.web.seguranca.LoginActionForm"/>
+        <form-bean name="SenhaUsuarioActionForm" type="br.com.delphos.web.usuarios.SenhaUsuarioActionForm"/>
+        <form-bean name="ConfiguracaoActionForm" type="br.com.delphos.web.configuracao.ConfiguracaoActionForm"/>
+    </form-beans>
+    <global-exceptions>
+    
+    </global-exceptions>
+
+    <global-forwards>
+        <forward name="inicio" path="/principal/index.jsp" redirect="false" /> 
+        <forward name="login" path="/login/login.jsp"/>
+        <forward name="editarSistema" path="/configuracao/manterSistema.jsp" redirect="false" />
+        <forward name="editarEmpresa" path="/configuracao/manterEmpresa.jsp" redirect="false" />
+        <forward name="editarUsuario" path="/configuracao/manterUsuario.jsp" redirect="false" />
+        <forward name="editarInterface" path="/configuracao/manterInterface.jsp" redirect="false" />
+        <forward name="editarGrupoUsuario" path="/configuracao/manterGrupoUsuario.jsp" redirect="false" />
+        <forward name="editarGrupoInterface" path="/configuracao/manterGrupoInterface.jsp" redirect="false" />
+        <forward name="listarEmpresa" path="/pesquisa/pesquisarEmpresa.jsp" redirect="false" />
+        <forward name="listarSistema" path="/pesquisa/pesquisarSistema.jsp" redirect="false" />
+        <forward name="listarUsuario" path="/pesquisa/pesquisarUsuario.jsp" redirect="false" />
+        <forward name="prepararUsuario" path="/configuracao/manterUsuario.jsp" redirect="false" />
+        <forward name="listarGrupoUsuario" path="/pesquisa/pesquisarGrupoUsuario.jsp" redirect="false" />
+        <forward name="prepararGrupoUsuario" path="/configuracao/manterGrupoUsuario.jsp" redirect="false" />
+        <forward name="prepararGrupoInterface" path="/configuracao/manterGrupoInterface.jsp" redirect="false" />
+        <forward name="prepararInterface" path="/configuracao/manterInterface.jsp" redirect="false" />
+		<forward name="listarGrupoInterface" path="/pesquisa/pesquisarGrupoInterface.jsp" redirect="false" />
+		<forward name="listarInterface" path="/pesquisa/pesquisarInterface.jsp" redirect="false" />
+        <forward name="reiniciarSenha" path="/login/reiniciarSenha.jsp"/>  
+        
+        <forward name="listarInterface" path="/pesquisa/pesquisarInterface.jsp" redirect="false" />
+        
+    </global-forwards>
+
+    <action-mappings>
+       
+       
+       
+       
+       <!-- LOGIN -->
+        <action 
+            input="/login/login.jsp"
+            name="LoginActionForm"
+            path="/login/autenticar"
+            scope="request"
+            type="br.com.delphos.web.seguranca.LoginAction"
+            validate="false"
+        />
+        <action 
+            input="/login/trocarSenha.jsp"
+            name="SenhaUsuarioActionForm" 
+            path="/login/alterarSenha" 
+            scope="request"
+            type="br.com.delphos.web.usuarios.AlterarSenhaAction"
+        />
+        <action 
+            input="/login/esqueceuSenha.jsp" 
+            name="EsqueceuSenhaActionForm" 
+            path="/login/esqueceuSenha" 
+            scope="request" 
+            type="br.com.delphos.web.usuarios.EsqueceuSenhaAction"
+        />
+        
+        
+         <!-- SISTEMA -->
+        <action 
+            input="/pesquisa/pesquisarSistema.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.SistemaAction"
+        />
+        <action 
+            input="/configuracao/manterSistema.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.SistemaAction"
+        />
+        <action 
+            input="/configuracao/manterSistema.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarSistemaAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararSistema" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararSistemaAction"
+        />
+        
+         <!-- EMPRESA -->
+              
+        <action 
+            input="/pesquisa/pesquisarEmpresa.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoEmpresa" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EmpresaAction"
+        />
+        <action 
+            input="/configuracao/manterEmpresa.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterEmpresa" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EmpresaAction"
+        />
+        <action 
+            input="/configuracao/manterEmpresa.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarEmpresa" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarEmpresaAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararEmpresa" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararEmpresaAction"
+        />
+        
+         <!-- USUARIO -->
+        
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararUsuarioAction"
+        />
+        <action 
+            input="/configuracao/manterUsuario.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarUsuarioAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarUsuario.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.UsuarioAction"
+        />
+        <action 
+            input="/configuracao/manterUsuario.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.UsuarioAction"
+        />
+        
+         <!-- INTERFACE -->
+        
+        <!-- <action 
+            input="/pesquisa/pesquisarUsuario.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.UsuarioAction"
+        />
+        
+        <action 
+            input="/configuracao/manterInterface.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarInterface" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarInterfaceAction"
+        /> -->
+        
+        
+         <action 
+            input="/configuracao/manterInterface.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarInterface" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarInterfaceAction"
+          />        
+        
+         <action 
+            input="/pesquisa/pesquisarInterface.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoInterface" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.ListarInterfaceAction"
+        />
+        
+         <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararInterface" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararInterfaceAction"
+        />
+        
+        
+         <!-- GRUPO USUARIO -->
+        
+        <action 
+            input="/configuracao/manterGrupoUsuario.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterGrupoUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.GrupoUsuarioAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarGrupoUsuario.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoGrupoUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.GrupoUsuarioAction"
+        />
+        <action 
+            input="/" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararGrupoUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararGrupoUsuarioAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarGrupoUsuario.jsp" 
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararGrupoUsuario" 
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararGrupoUsuarioAction"
+        />
+        <action 
+            input="/configuracao/manterGrupoUsuario.jsp"
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarGrupoUsuario"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarGrupoUsuarioAction"
+        />
+        
+         <!-- GRUPO INTERFACE -->
+        
+        <action 
+            input="/configuracao/manterGrupoInterface.jsp"
+            name="ConfiguracaoActionForm" 
+            path=" /configuracao/editarGrupoInterface"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarGrupoInterfaceAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarGrupoInterface.jsp"
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/editarGrupoInterface"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.EditarGrupoInterfaceAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarGrupoInterface.jsp"
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/resultadoGrupoInterface"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.GrupoInterfaceAction"
+        />
+        <action 
+            input="/pesquisa/pesquisarGrupoInterface.jsp"
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterGrupoInterface"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.GrupoInterfaceAction"
+        />
+        <action 
+            input="/configuracao/manterGrupoInterface.jsp"
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/prepararGrupoInterface"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.PrepararGrupoInterfaceAction"
+        />
+        <action 
+            input="/configuracao/manterGrupoInterface.jsp"
+            name="ConfiguracaoActionForm" 
+            path="/configuracao/manterGrupoInterface"
+            scope="request" 
+            type="br.com.delphos.web.configuracao.GrupoInterfaceAction"
+        />
+        <action 
+            input="/login/reiniciarSenha.jsp" 
+            name="ReiniciarSenhaActionForm" 
+            path="/login/reiniciarSenha" 
+            scope="request" 
+            type="br.com.delphos.web.usuarios.ReiniciarSenhaAction"
+        />
+        <action 
+            input="" 
+            name="ReiniciarSenhaActionForm" 
+            path="/login/reiniciar" 
+            scope="request" 
+            type="br.com.delphos.web.usuarios.ReiniciarAction"
+            validate="false"
+        />
+    </action-mappings>
+    
+    <controller processorClass="org.apache.struts.tiles.TilesRequestProcessor"/>
+
+    <message-resources parameter="br/com/delphos/web/ApplicationResource"/>   
+    
+    <!-- ========================= Tiles plugin ===============================-->
+    <!--
+    This plugin initialize Tiles definition factory. This later can takes some
+    parameters explained here after. The plugin first read parameters from
+    web.xml, thenoverload them with parameters defined here. All parameters
+    are optional.
+    The plugin should be declared in each struts-config file.
+    - definitions-config: (optional)
+    Specify configuration file names. There can be several comma
+    separated file names (default: ?? )
+    - moduleAware: (optional - struts1.1)
+    Specify if the Tiles definition factory is module aware. If true
+    (default), there will be one factory for each Struts module.
+    If false, there will be one common factory for all module. In this
+    later case, it is still needed to declare one plugin per module.
+    The factory will be initialized with parameters found in the first
+    initialized plugin (generally the one associated with the default
+    module).
+    true : One factory per module. (default)
+    false : one single shared factory for all modules
+    - definitions-parser-validate: (optional)
+    Specify if xml parser should validate the Tiles configuration file.
+    true : validate. DTD should be specified in file header (default)
+    false : no validation
+
+    Paths found in Tiles definitions are relative to the main context.
+    -->
+    <plug-in className="org.apache.struts.tiles.TilesPlugin" >
+        <set-property property="definitions-config" value="/WEB-INF/tiles-defs.xml" />      
+        <set-property property="moduleAware" value="true" />
+    </plug-in>
+    
+    <!-- ========================= Validator plugin ================================= -->
+    <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+        <set-property
+            property="pathnames"
+            value="/WEB-INF/validator-rules.xml,/WEB-INF/validation.xml"/>
+    </plug-in>
+  
+</struts-config>

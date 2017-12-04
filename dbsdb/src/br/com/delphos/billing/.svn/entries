@@ -1,0 +1,76 @@
+10
+
+dir
+33817
+http://svn.delphos.com.br/svn/Delphos/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing
+http://svn.delphos.com.br/svn/Delphos
+
+
+
+2015-10-30T12:03:46.042332Z
+33814
+jean.bahia
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+801ce6d6-6737-4b7b-ac39-7f07e7646ef2
+
+produtos
+dir
+
+empresas
+dir
+
+vendas
+dir
+
+tentativas
+dir
+
+adquirentes
+dir
+
+sistemas
+dir
+
+provedores
+dir
+
+persistencia
+dir
+
+listasValores
+dir
+
+conciliacoes
+dir
+
+cobrancas
+dir
+
+exportacoes
+dir
+
+logs
+dir
+
+contratosCobranca
+dir
+
+meiosPagamento
+dir
+
+parametros
+dir
+

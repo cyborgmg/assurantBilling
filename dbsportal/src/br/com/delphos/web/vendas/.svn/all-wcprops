@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/33678/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas
+END
+ExibirAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/32494/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/ExibirAction.java
+END
+VendaDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/33552/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/VendaDecorator.java
+END
+TentativaDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/32851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/TentativaDecorator.java
+END
+VendasActionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Delphos/!svn/ver/31925/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/VendasActionForm.java
+END
+DetalharVendasAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/32494/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/DetalharVendasAction.java
+END
+EventoDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/31925/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/EventoDecorator.java
+END
+ExibirActionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Delphos/!svn/ver/29896/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/ExibirActionForm.java
+END
+LimparSessaoServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/33088/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/LimparSessaoServlet.java
+END
+FiltrarListasServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/33678/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/FiltrarListasServlet.java
+END
+PrepararVendaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32494/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/PrepararVendaAction.java
+END
+VendaViewHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/33542/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/VendaViewHelper.java
+END
+CobrancaDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/31925/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/CobrancaDecorator.java
+END
+VendasAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/32545/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/vendas/VendasAction.java
+END

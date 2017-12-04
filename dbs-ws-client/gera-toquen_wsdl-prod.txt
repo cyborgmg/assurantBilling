@@ -1,0 +1,6 @@
+http://jbdes.delphos.mtz:80/dbs/servico?wsdl
+
+gerador de chaves
+
+
+http://webhomolog.delphos.com.br/WebServiceAssurant/retornarChaveAcesso.asp

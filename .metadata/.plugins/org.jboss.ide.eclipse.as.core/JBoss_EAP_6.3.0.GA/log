@@ -1,0 +1,4202 @@
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-17 11:41:28.433
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-17 11:41:31.828
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-03-17 15:04:46.453
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-03-17 15:05:12.141
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-04-08 16:05:28.812
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-04-08 16:06:00.448
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-04-08 16:08:45.152
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-04-08 16:08:46.309
+!MESSAGE Server processes have been terminated.
+!SESSION 2015-10-30 10:31:37.756 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data C:\desenv\Workspaces\assurantBilling -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 10:47:04.420
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 10:47:47.315
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:33.203
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:33.433
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:35.773
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:35.993
+!MESSAGE Module dbstimer published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:36.413
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:36.574
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:39.216
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:39.306
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:48:39.976
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:55.236
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:55.579
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:55.909
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:55.999
+!MESSAGE Module dbstimer published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:56.711
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:56.801
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:58.072
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:58.163
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 10:52:58.780
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-30 10:53:57.886
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 10:53:58.430
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.279
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.294
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.310
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.310
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.310
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.310
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.357
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.528
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 11:59:54.684
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 11:59:55.983
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 12:00:21.811
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:34.486
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:34.941
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:38.395
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:38.707
+!MESSAGE Module dbstimer published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:40.085
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:41.599
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:44.821
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:44.899
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:01:48.261
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-30 12:07:58.376
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 12:07:58.768
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 12:08:03.274
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 12:08:07.875
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-30 12:14:09.499
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 12:14:10.016
+!MESSAGE Server processes have been terminated.
+!SESSION 2015-10-30 12:17:01.242 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.430
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.430
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.430
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.430
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.430
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.445
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.445
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.445
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 12:18:24.461
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 12:18:25.746
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 12:18:30.574
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:22.109
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:22.608
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:28.232
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:28.811
+!MESSAGE Module dbstimer published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:29.265
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:31.112
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:32.536
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:32.615
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 12:19:34.960
+!MESSAGE Module dbs published without error.
+
+!ENTRY unknown 0 0 2015-10-30 12:34:58.905
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:39.260
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:39.701
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:40.351
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:40.471
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:41.726
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:41.838
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:42.753
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:42.763
+!MESSAGE Module dbsWAR-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:03:44.205
+!MESSAGE Module dbsWAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-30 13:08:19.961
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 13:08:21.299
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-10-30 13:08:21.299
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:23.360
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:23.450
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:23.600
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:23.680
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:23.961
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:24.051
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:24.437
+!MESSAGE 194 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:08:24.457
+!MESSAGE 7 files modified in module dbsWAR
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 13:08:25.870
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 13:08:37.474
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 13:09:32.730
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 13:09:45.527
+!MESSAGE Server Startup Succeeded
+
+!ENTRY unknown 0 0 2015-10-30 13:10:45.209
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:45.852
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:45.852
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:45.942
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:45.952
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:45.952
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:46.222
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:46.222
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:46.332
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:10:46.574
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:40.440
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:40.823
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:44.515
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:44.916
+!MESSAGE Module dbstimer published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:44.916
+!MESSAGE Module dbsWAR-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:46.891
+!MESSAGE Module dbsWAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:47.091
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:47.182
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:48.082
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:48.172
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:11:50.026
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-30 13:12:28.677
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 13:12:29.160
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 13:13:16.693
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 13:13:24.710
+!MESSAGE Server Startup Succeeded
+
+!ENTRY unknown 0 0 2015-10-30 13:14:16.796
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:14:16.796
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:14:27.452
+!MESSAGE Module dbsWAR-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:14:29.638
+!MESSAGE Module dbsWAR published without error.
+
+!ENTRY unknown 0 0 2015-10-30 13:15:10.989
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:16:27.153
+!MESSAGE Module dbsWAR-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:16:27.325
+!MESSAGE Module dbsWAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:18:55.783
+!MESSAGE 6 files modified in module dbsWAR
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:19:10.821
+!MESSAGE Module dbsWAR-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:19:10.991
+!MESSAGE Module dbsWAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:22.025
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:22.635
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:28.228
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:28.789
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:28.869
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:33.927
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:34.007
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:34.815
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:34.985
+!MESSAGE Module dbsWAR-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:36.336
+!MESSAGE Module dbsWAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:21:36.436
+!MESSAGE Module dbs published without error.
+
+!ENTRY unknown 0 0 2015-10-30 13:39:54.236
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:39:54.256
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 13:39:54.256
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:26.414
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:26.808
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:28.796
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:30.209
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:33.450
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:33.540
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:36.973
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:55:36.983
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:57:04.154
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:04.267
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:05.019
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:08.911
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:09.750
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:09.830
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:12.999
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:13.089
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:13.860
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 13:59:13.880
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:02:18.693
+!MESSAGE 88 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:02:18.773
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:02:19.384
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:04:59.992
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:01.334
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:07.974
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:12.870
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:18.235
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:21.791
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:21.901
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:27.623
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:30.535
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:30.605
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:05:30.805
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:17:22.725
+!MESSAGE 7 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:17:22.793
+!MESSAGE 7 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:19:00.111
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:19:07.431
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:19:20.913
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:19:27.740
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:19:37.338
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:19:52.353
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:19:52.438
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:20:02.531
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:20:05.927
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:20:06.447
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:20:07.207
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-10-30 14:28:04.724
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:04.771
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:04.771
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:06.120
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:06.136
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:06.339
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:06.354
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:07.202
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:07.217
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:07.986
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:28:08.220
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-30 14:28:14.107
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 14:28:17.094
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-10-30 14:28:17.094
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 14:28:27.792
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 14:29:09.160
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:29:53.697
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:29:57.253
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:06.076
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:08.288
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:11.592
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:14.732
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:14.822
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:20.466
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:20.466
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:30:24.024
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-10-30 14:32:03.755
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:32:03.758
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:32:19.623
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:32:19.813
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.eclipse.wst.server.core 4 1644298249 2015-10-30 14:37:01.351
+!MESSAGE Error renaming C:\Servidores\jboss-eap-6.3\standalone\tmp\tmp5861627814383323452.null to C:\Servidores\jboss-eap-6.3\standalone\deployments\sca-ear.ear\.svn\all-wcprops. 
+
+This may be caused by your server's temporary deploy directory being on a different filesystem than the final destination.
+
+You may adjust these settings in the server editor.
+
+!ENTRY org.eclipse.wst.server.core 4 1644298249 2015-10-30 14:37:02.996
+!MESSAGE Error renaming C:\Servidores\jboss-eap-6.3\standalone\tmp\tmp7221714304216581061.xml to C:\Servidores\jboss-eap-6.3\standalone\deployments\sca-ear.ear\sca-ejb.jar\META-INF\beans.xml. 
+
+This may be caused by your server's temporary deploy directory being on a different filesystem than the final destination.
+
+You may adjust these settings in the server editor.
+
+!ENTRY org.eclipse.wst.server.core 4 1644298249 2015-10-30 14:37:04.106
+!MESSAGE Error renaming C:\Servidores\jboss-eap-6.3\standalone\tmp\tmp5681941214232269162.MF to C:\Servidores\jboss-eap-6.3\standalone\deployments\sca-ear.ear\sca.war\META-INF\MANIFEST.MF. 
+
+This may be caused by your server's temporary deploy directory being on a different filesystem than the final destination.
+
+You may adjust these settings in the server editor.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:37:05.619
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:37:09.013
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:37:14.852
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:37:14.932
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:37:20.541
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:37:20.617
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:37:22.926
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-30 14:37:57.947
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-30 14:37:59.266
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2015-10-30 14:39:24.931
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:24.931
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:24.941
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:24.941
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:24.971
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:24.981
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:25.522
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:25.522
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:25.642
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:39:25.872
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-30 14:39:42.187
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-30 14:40:04.037
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:40:59.989
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:41:02.259
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:41:08.759
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:41:10.116
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:41:13.065
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:41:16.297
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:41:16.377
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:41:22.277
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:42:19.236
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:42:23.769
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-10-30 14:45:15.824
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 14:45:15.824
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:45:38.909
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:47:14.528
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:49:43.365
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:49:54.506
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 14:50:03.156
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:50:11.463
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:53:25.942
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 14:53:44.942
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:54:08.068
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:56:39.504
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:56:53.781
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:57:03.977
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 14:57:13.856
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 14:57:24.645
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:29:39.879
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:50:19.424
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:50:53.324
+!MESSAGE 8 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 15:51:00.496
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:51:17.123
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:54:53.297
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:57:05.446
+!MESSAGE 7 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 15:57:14.062
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:57:24.782
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-10-30 15:58:39.947
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 15:58:40.241
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 15:58:59.357
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:00:33.546
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:05:10.380
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-10-30 16:05:21.070
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 16:05:21.739
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:05:54.283
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:07:02.699
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:16:21.898
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:16:21.983
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:16:22.286
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:16:26.858
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:16:33.636
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:16:48.972
+!MESSAGE Module dbs published without error.
+
+!ENTRY unknown 0 0 2015-10-30 16:16:49.031
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:17:15.180
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:52.632
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:53.257
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:53.949
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:54.050
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:54.685
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:54.841
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:55.255
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:22:55.267
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:23:20.105
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 16:23:20.200
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:23:31.242
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:23:58.890
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:26:44.217
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:26:53.170
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:27:06.870
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:33:39.792
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:33:59.423
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:09.397
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:37.122
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:37.303
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:37.447
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:37.534
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:37.753
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:38.046
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:38.360
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:34:38.373
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:34:59.421
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 16:34:59.530
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:35:14.578
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:35:36.774
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:38:07.478
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:38:19.383
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:38:26.271
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:42:15.543
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:42:27.866
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:42:33.988
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:42:42.827
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:43:02.910
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:43:11.693
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:43:20.618
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:43:30.013
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:44:11.762
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:48:39.213
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:48:54.856
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:49:15.510
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 16:49:15.514
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:49:23.773
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:49:23.864
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:50:03.934
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:50:12.837
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:50:17.557
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-30 16:50:17.560
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:50:26.395
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:50:26.480
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY unknown 0 0 2015-10-30 16:51:24.059
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:51:56.416
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:52:10.931
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:52:51.623
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:53:35.696
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:53:43.680
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-10-30 16:53:54.953
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-30 16:54:06.900
+!MESSAGE Module dbs-war published without error.
+!SESSION 2015-11-03 08:38:27.469 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:50.787
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:51.156
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:51.230
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:52.427
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:52.553
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:54.198
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:54.299
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:55.278
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:22:55.324
+!MESSAGE 8 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-03 09:22:59.621
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-03 09:23:56.349
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.jmx.integration 4 0 2015-11-03 09:24:21.740
+!MESSAGE Error connecting to jmx for server JBoss EAP 6.3.0.GA
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:100)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:175)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:144)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:118)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:271)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:263)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:235)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:148)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:99)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	... 6 more
+!SUBENTRY 1 org.jboss.ide.eclipse.as.core 4 0 2015-11-03 09:24:21.740
+!MESSAGE Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+!STACK 0
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:235)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:148)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:99)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:175)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:144)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:118)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:271)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:263)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY unknown 0 0 2015-11-03 09:26:31.612
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:26:46.155
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:28:52.735
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 09:29:32.160
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:29:46.653
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-03 09:31:28.408
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:31:36.951
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:43:24.653
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:44:15.937
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:44:36.698
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:45:30.771
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:46:01.783
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 09:46:13.623
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:46:25.257
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:57:24.814
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 09:57:29.811
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 09:57:41.307
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:44.392
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:44.903
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:48.162
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:48.308
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:50.486
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:50.644
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:54.278
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:37:54.423
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:39:38.935
+!MESSAGE 1 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:41:26.392
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:41:26.502
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:41:48.290
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:41:48.372
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:42:16.617
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:42:16.672
+!MESSAGE 1 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:42:16.752
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 10:42:36.125
+!MESSAGE Error occurred while checking module state for dbs-war on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:42:48.548
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:42:48.629
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:43:46.074
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:44:04.686
+!MESSAGE 1 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:44:09.892
+!MESSAGE 1 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 10:44:46.377
+!MESSAGE Error occurred while checking module state for dbs on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:46:32.894
+!MESSAGE 1 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 10:52:53.717
+!MESSAGE 1 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:05:23.120
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:05:23.627
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:05:25.829
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:05:53.438
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:05:53.573
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY unknown 0 0 2015-11-03 11:07:06.454
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:07:42.701
+!MESSAGE Module Teste published without error.
+
+!ENTRY unknown 0 0 2015-11-03 11:10:09.424
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 11:10:17.485
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:10:36.294
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:13:59.884
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:14:00.073
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:14:00.430
+!MESSAGE 197 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-03 11:14:09.454
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 11:15:49.049
+!MESSAGE Error occurred while checking module state for sca-ear on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:16:06.535
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:17:16.333
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:19:29.691
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 11:19:41.173
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:19:55.157
+!MESSAGE Module Teste published without error.
+
+!ENTRY unknown 0 0 2015-11-03 11:20:32.344
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 11:21:10.892
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:29.888
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:31.721
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:36.682
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:37.021
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:43.480
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:44.065
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:52.652
+!MESSAGE 197 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:16:52.866
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:17:16.068
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:17:24.629
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:17:41.849
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:17:42.414
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:17:42.494
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:17:59.731
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:17:59.810
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:18:05.241
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:18:05.332
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 12:18:27.663
+!MESSAGE Error occurred while checking module state for dbsdb on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY unknown 0 0 2015-11-03 12:18:45.956
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:51.403
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:51.406
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:51.409
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:54.246
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:54.249
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:55.848
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:56.794
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:18:56.807
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:19:37.518
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:19:43.720
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:19:57.768
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:19:57.988
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:20:05.881
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:20:14.185
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:20:33.403
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:20:33.488
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:20:46.419
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 12:21:11.259
+!MESSAGE Error occurred while checking module state for dbsportal on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-03 12:21:57.614
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.jmx.integration 4 0 2015-11-03 12:22:18.013
+!MESSAGE Error connecting to jmx for server JBoss EAP 6.3.0.GA
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:100)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:175)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:144)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:118)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:271)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:263)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:235)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:148)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:99)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	... 6 more
+!SUBENTRY 1 org.jboss.ide.eclipse.as.core 4 0 2015-11-03 12:22:18.014
+!MESSAGE Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+!STACK 0
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:235)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:148)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:99)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:175)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:144)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:118)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:271)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:263)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-03 12:22:19.513
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-03 12:22:20.656
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-03 12:22:26.448
+!MESSAGE Server processes have been terminated.
+!SESSION 2015-11-03 12:23:03.976 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:28.407
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:30.733
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:35.787
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:35.853
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:37.462
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:44.430
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:48.173
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:48.257
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:24:55.951
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-03 12:24:59.681
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-03 12:25:35.796
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:32:47.426
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:32:47.618
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:32:47.860
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:32:49.060
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:33:42.718
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 12:33:52.653
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:34:11.189
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:35:40.430
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:35:57.776
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 12:36:18.027
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:36:24.598
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:39:11.822
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:39:54.724
+!MESSAGE 145 files modified in module sca-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:39:55.474
+!MESSAGE 49 files modified in module sca
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:39:58.416
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:39:58.506
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:40:00.826
+!MESSAGE 133 files modified in module dbsportal
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:40:00.909
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:40:01.302
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:40:01.369
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 12:40:32.344
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:34.326
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:34.330
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:34.333
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:38.822
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:38.826
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:39.302
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:39.445
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:40:39.468
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:03.099
+!MESSAGE Module sca-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:06.959
+!MESSAGE Module sca-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:17.760
+!MESSAGE Module sca published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:18.049
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:20.017
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:22.527
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:27.086
+!MESSAGE Module dbsportal published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:27.172
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:41:32.690
+!MESSAGE Module dbs published without error.
+
+!ENTRY unknown 0 0 2015-11-03 12:42:37.802
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.040
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.044
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.047
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.212
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.216
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.228
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.302
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 12:42:38.429
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:43:04.909
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:43:08.175
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:43:50.403
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:44:21.610
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:49:39.661
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 12:49:50.604
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:50:04.218
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:51:03.574
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 12:51:10.245
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:51:25.513
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:59:31.103
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:59:40.783
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 12:59:55.067
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 13:00:00.727
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:00:14.301
+!MESSAGE Module Teste published without error.
+
+!ENTRY unknown 0 0 2015-11-03 13:01:28.167
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 13:01:39.504
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:01:57.046
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:04:18.517
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-03 13:04:33.865
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:04:46.144
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:06:13.181
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:07:11.192
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:07:11.196
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 13:07:19.990
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 13:07:25.225
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:07:38.364
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:08:10.703
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:09:59.917
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 13:10:04.896
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:10:11.519
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:11:35.220
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 13:11:41.548
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:11:46.146
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:13:03.591
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-03 13:13:09.191
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 13:13:13.348
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:13:32.138
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:14:07.654
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-03 13:14:14.904
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:14:25.380
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:17:53.144
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:19:36.001
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 13:19:43.415
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:19:53.577
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:20:56.780
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 13:21:02.037
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:21:12.587
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:22:12.566
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:22:12.570
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 13:22:22.601
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 13:22:22.611
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:22:36.875
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:22:36.888
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:26:34.490
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:26:57.297
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-03 13:28:41.608
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:29:05.801
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-03 13:31:38.962
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:31:52.516
+!MESSAGE 7 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 13:32:05.166
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:32:18.748
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:41:41.806
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:41:42.919
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:41:42.938
+!MESSAGE 7 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 13:42:03.150
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 13:42:03.273
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:42:20.258
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:43:19.135
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:43:19.224
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:43:19.612
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-03 13:43:25.762
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 13:43:26.366
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 13:43:27.450
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:43:37.793
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:43:37.880
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:43:58.241
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 13:44:30.002
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:11:37.549
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:14:28.344
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:17:28.664
+!MESSAGE 2 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:17:34.875
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:17:49.701
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:21:23.754
+!MESSAGE 2 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:21:30.401
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:21:42.879
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:23:46.393
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:24:09.269
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:24:27.682
+!MESSAGE 3 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:24:39.883
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:24:49.819
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:28:00.430
+!MESSAGE 2 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:28:10.732
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:28:14.282
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:35:22.472
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:39:21.290
+!MESSAGE 3 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:39:27.867
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:39:34.371
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:45:33.877
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:46:35.122
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:47:06.817
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-03 14:47:07.132
+!MESSAGE Module Teste on JBoss EAP 6.3.0.GA not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:48:12.321
+!MESSAGE 3 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:48:18.482
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:48:25.251
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:49:16.091
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:49:23.817
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:49:36.043
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:52:37.097
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:53:57.677
+!MESSAGE 13 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:54:01.613
+!MESSAGE 2 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:54:05.938
+!MESSAGE Module Teste-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:54:06.450
+!MESSAGE Module Teste published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:54:10.746
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 14:54:10.750
+!MESSAGE 1 files modified in module Teste
+
+!ENTRY unknown 0 0 2015-11-03 14:55:13.262
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 14:55:13.279
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 14:55:23.376
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:09:34.027
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:12:38.282
+!MESSAGE 4 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:12:42.469
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:12:48.355
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:14:48.658
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:14:58.898
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:18:12.948
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:18:26.094
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:18:33.724
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:19:08.502
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:19:32.181
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:19:38.924
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 15:19:50.688
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:20:13.249
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:22:48.304
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:23:05.838
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:23:13.301
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:23:30.673
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:25:18.516
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:25:23.165
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:25:41.852
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:27:19.630
+!MESSAGE 1 files modified in module SimpleWS
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:27:46.567
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:27:55.529
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:28:01.316
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:29:55.690
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:30:00.975
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:30:07.034
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:31:09.949
+!MESSAGE 2 files modified in module SimpleWS
+
+!ENTRY unknown 0 0 2015-11-03 15:31:16.026
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 15:31:22.422
+!MESSAGE Module SimpleWS published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:06:42.423
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-03 16:06:42.453
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:10:25.954
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:11:13.671
+!MESSAGE 0 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:15:07.922
+!MESSAGE 80 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 16:15:19.366
+!MESSAGE Error occurred while checking module state for dbsdb on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:16:58.912
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:17:04.513
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:17:06.091
+!MESSAGE Module dbs-war-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:17:20.103
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 16:17:31.597
+!MESSAGE Error occurred while checking module state for dbs on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY unknown 0 0 2015-11-03 16:18:56.847
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 16:20:24.301
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-03 16:20:24.304
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:23:33.798
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:25:44.641
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:25:50.384
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 16:25:54.955
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:26:01.801
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:34:27.776
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:34:35.857
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:35:13.573
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:35:21.075
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 16:35:28.199
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:35:52.623
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:48:24.322
+!MESSAGE 79 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:48:28.555
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:48:43.665
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-03 16:48:49.481
+!MESSAGE Error occurred while checking module state for dbs-war on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:48:57.096
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 16:49:05.724
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:49:48.080
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:51:43.900
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:51:58.142
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 16:52:10.579
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:52:26.806
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:53:49.108
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-03 16:53:53.915
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-03 16:54:05.087
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:17:13.682
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:26:09.818
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 08:28:11.934
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 08:28:23.193
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-11-04 08:28:23.193
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY unknown 0 0 2015-11-04 08:32:42.544
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 08:32:43.799
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 08:33:24.112
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:34:30.497
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:35:42.092
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:36:51.742
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:37:44.499
+!MESSAGE 79 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:38:26.327
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:38:36.909
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 08:38:52.435
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:39:01.948
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 08:52:47.441
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 08:52:51.391
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 08:52:52.705
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-11-04 08:52:52.705
+!MESSAGE Server Shutdown Succeeded
+!SESSION 2015-11-04 09:07:48.540 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:11:03.245
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:11:03.383
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:11:04.383
+!MESSAGE 197 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-04 09:11:05.071
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 09:11:07.734
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 09:11:26.879
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 09:20:17.132
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 09:20:17.567
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 09:20:18.613
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 09:20:21.754
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 09:21:37.018
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 09:21:37.264
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 09:21:39.937
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 09:21:42.440
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:22:28.321
+!MESSAGE Module dbs-war published without error.
+!SESSION 2015-11-04 09:37:48.875 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:44:10.917
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:44:11.024
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:44:11.454
+!MESSAGE 197 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-04 09:44:11.502
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 09:44:12.812
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 09:44:58.169
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:45:52.941
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 09:48:31.804
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 09:48:32.302
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2015-11-04 09:48:38.934
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 09:48:40.124
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 09:48:43.713
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 09:48:53.725
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 09:49:55.464
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 09:49:55.814
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 09:49:58.568
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 09:50:01.044
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:15:43.345
+!MESSAGE 80 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 10:15:53.223
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:16:06.414
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-04 10:20:43.399
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:21:35.022
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-04 10:25:58.893
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 10:26:02.313
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 10:26:04.440
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2015-11-04 10:26:04.470
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 10:26:05.796
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 10:26:47.654
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:27:06.463
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 10:30:19.002
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 10:30:19.679
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 10:30:23.016
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 10:30:36.680
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:31:29.419
+!MESSAGE 80 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:31:46.492
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 10:31:49.045
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:32:08.270
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:33:47.761
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:34:20.243
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:35:05.561
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:35:12.027
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 10:35:14.288
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:35:28.746
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:40:37.204
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 10:40:45.697
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:41:06.410
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 10:45:00.235
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 10:45:01.029
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 10:45:03.820
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 10:45:16.571
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 10:46:51.380
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 10:46:52.320
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 10:47:10.223
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 10:47:13.478
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:48:52.435
+!MESSAGE 3 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:49:09.710
+!MESSAGE 2 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 10:49:13.227
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:49:29.788
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:56:58.193
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 10:57:09.727
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 10:57:34.248
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 11:06:28.321
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 11:09:29.759
+!MESSAGE 3 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 11:09:41.082
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 11:09:49.086
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:02:34.237
+!MESSAGE 3 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 12:02:37.536
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:02:51.947
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:10:12.629
+!MESSAGE 3 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 12:10:15.632
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:10:22.304
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:12:42.119
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:12:47.857
+!MESSAGE 3 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 12:12:50.803
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:12:56.579
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:14:53.065
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:19:38.429
+!MESSAGE 0 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:19:58.949
+!MESSAGE 0 files modified in module dbs-war
+!SESSION 2015-11-04 12:24:01.178 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:36:24.075
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:36:24.185
+!MESSAGE 156 files modified in module dbs-lib
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:36:30.124
+!MESSAGE Module dbs published without error.
+
+!ENTRY unknown 0 0 2015-11-04 12:36:30.338
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 12:36:33.584
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 12:36:44.356
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:37:06.499
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:40:38.874
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:40:46.639
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 12:40:53.801
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:41:09.686
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-11-04 12:43:01.946
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-04 12:43:02.496
+!MESSAGE Server processes have been terminated.
+!SESSION 2015-11-04 12:46:15.081 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:49:21.534
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:49:24.558
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:49:28.921
+!MESSAGE Module dbs published without error.
+
+!ENTRY unknown 0 0 2015-11-04 12:49:28.924
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-04 12:49:30.239
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-04 12:49:35.148
+!MESSAGE Server Startup Succeeded
+
+!ENTRY unknown 0 0 2015-11-04 12:49:50.552
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-04 12:49:50.688
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-04 12:49:50.861
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:50:06.725
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:50:06.811
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:50:18.362
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:50:31.520
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:51:49.842
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:52:16.565
+!MESSAGE 1 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:52:23.520
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-04 12:52:30.161
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-04 12:52:34.780
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-11-05 08:45:15.117
+!MESSAGE Server processes have been terminated.
+!SESSION 2015-11-05 08:51:18.395 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-05 08:53:34.338
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-05 08:53:37.104
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-05 08:53:42.147
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-05 08:53:43.058
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-05 08:53:45.120
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-05 08:54:26.894
+!MESSAGE Server Startup Succeeded
+!SESSION 2015-11-10 09:39:44.757 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:41:14.468
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:41:18.000
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:41:23.218
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:41:25.624
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-10 09:41:32.960
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-10 09:42:45.399
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:50:39.544
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:50:39.668
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:50:41.211
+!MESSAGE 196 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:50:41.226
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:51:18.845
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:51:18.927
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:51:19.446
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:51:19.458
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:51:54.592
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-10 09:52:17.387
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 09:52:17.560
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 09:52:17.620
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 09:52:17.801
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:52:33.139
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:52:33.225
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:52:42.685
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 09:52:56.324
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-10 10:03:17.884
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:03:18.032
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:03:18.101
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:03:18.271
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:04:09.066
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:04:09.162
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:04:23.884
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:04:48.555
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY unknown 0 0 2015-11-10 10:10:47.448
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:11:14.045
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY unknown 0 0 2015-11-10 10:12:00.527
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:12:00.587
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:12:00.648
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:12:00.745
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:13:25.628
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:13:25.732
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:14:08.009
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:14:13.442
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:19:06.836
+!MESSAGE Module dbs-war published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:26:19.277
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:26:19.419
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:26:21.353
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:26:21.367
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:27:12.476
+!MESSAGE 6 files modified in module dbs-war
+
+!ENTRY unknown 0 0 2015-11-10 10:27:27.165
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:27:27.251
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:27:27.326
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 10:27:27.460
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:27:34.353
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:27:34.435
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:27:43.301
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 10:27:51.845
+!MESSAGE Module dbs-war published without error.
+!SESSION 2015-11-10 14:43:58.548 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:02:49.187
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:02:49.606
+!MESSAGE 1 files modified in module dbs-lib
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:02:49.698
+!MESSAGE 1 files modified in module dbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:02:51.013
+!MESSAGE Module dbs-war-2 published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:02:51.018
+!MESSAGE Module dbs-wsEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:02:51.707
+!MESSAGE Module dbs-ws published without error.
+
+!ENTRY unknown 0 0 2015-11-10 15:02:54.530
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-10 15:02:58.016
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-10 15:04:15.930
+!MESSAGE Server Startup Succeeded
+
+!ENTRY unknown 0 0 2015-11-10 15:07:31.871
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 15:07:31.930
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 15:07:31.944
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:08:06.080
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:08:15.742
+!MESSAGE Module dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:08:54.354
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:09:02.433
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:09:43.295
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:12:04.988
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:12:22.236
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:12:29.816
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:12:48.075
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:12:59.203
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:13:05.535
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:13:20.344
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:13:38.501
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY unknown 0 0 2015-11-10 15:13:43.282
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:13:47.517
+!MESSAGE Module dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:25:50.705
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:25:55.723
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY unknown 0 0 2015-11-10 15:26:01.318
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:26:10.197
+!MESSAGE Module dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:26:42.845
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:26:56.221
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:27:13.550
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY unknown 0 0 2015-11-10 15:27:17.195
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:27:25.026
+!MESSAGE Module dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:41:39.445
+!MESSAGE 83 files modified in module dbsdb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:41:39.663
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:41:43.242
+!MESSAGE 195 files modified in module dbs
+
+!ENTRY unknown 0 0 2015-11-10 15:41:57.546
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 15:41:57.717
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 15:41:57.890
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-10 15:41:58.833
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:42:41.327
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:42:41.411
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:43:03.574
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:43:24.819
+!MESSAGE Module dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:46:49.266
+!MESSAGE 2 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:47:23.884
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:47:42.594
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:48:25.809
+!MESSAGE 1 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:49:01.662
+!MESSAGE 5 files modified in module dbs-ws
+
+!ENTRY unknown 0 0 2015-11-10 15:49:08.782
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-10 15:49:17.358
+!MESSAGE Module dbs-ws published without error.
+!SESSION 2015-11-11 08:20:44.731 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 08:34:19.270
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 08:34:19.428
+!MESSAGE 155 files modified in module dbs-lib
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 08:34:23.925
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 08:34:23.974
+!MESSAGE 5 files modified in module dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-11 08:34:26.819
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-11 08:35:23.616
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.jmx.integration 4 0 2015-11-11 08:35:46.146
+!MESSAGE Error connecting to jmx for server JBoss EAP 6.3.0.GA
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:100)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:175)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:144)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:118)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:271)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:263)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:235)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:148)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:99)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	... 6 more
+!SUBENTRY 1 org.jboss.ide.eclipse.as.core 4 0 2015-11-11 08:35:46.146
+!MESSAGE Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+!STACK 0
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:235)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:148)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:99)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:175)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:144)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:118)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:271)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:263)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 15:26:50.146
+!MESSAGE Module sample-dbs-wsEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 15:27:01.216
+!MESSAGE Module sample-dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:00:50.924
+!MESSAGE 2 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-11 16:01:04.628
+!MESSAGE Error occurred while checking module state for dbsdb on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:07:11.810
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:10:20.308
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY unknown 0 0 2015-11-11 16:11:03.362
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-11 16:11:03.365
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:11:38.652
+!MESSAGE Module sample-dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:19:10.586
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:19:42.075
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:23:54.352
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:26:44.269
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:32:37.466
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:33:06.953
+!MESSAGE 2 files modified in module sample-dbs-ws
+
+!ENTRY unknown 0 0 2015-11-11 16:33:10.469
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-11 16:33:16.848
+!MESSAGE Module sample-dbs-ws published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-12 08:48:36.297
+!MESSAGE 2 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-12 08:51:20.106
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-12 08:51:56.871
+!MESSAGE 1 files modified in module sample-dbs-ws
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-12 09:01:38.706
+!MESSAGE 0 files modified in module sample-dbs-ws
+
+!ENTRY unknown 0 0 2015-11-12 09:09:29.480
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-12 09:09:50.162
+!MESSAGE Module sample-dbs-ws published without error.
+!SESSION 2015-11-13 08:35:42.072 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 08:48:44.346
+!MESSAGE Module dbsdb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 08:48:46.373
+!MESSAGE Module dbs-lib published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 08:48:51.191
+!MESSAGE Module dbs published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 08:48:56.893
+!MESSAGE Module dbs-ws published without error.
+
+!ENTRY unknown 0 0 2015-11-13 08:48:57.325
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-13 08:48:59.546
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-13 08:49:54.987
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.525
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.575
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.585
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.595
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.605
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.625
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.635
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.645
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.665
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:01:09.675
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:15:52.478
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.878
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.888
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.888
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.888
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.888
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.898
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.898
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.898
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.898
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:15:58.898
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.527
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.537
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.547
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.557
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.577
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.587
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.597
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.617
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.627
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:16:07.647
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.931
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.951
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.954
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.956
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.959
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.961
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.964
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.966
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.969
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:22:08.971
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.463
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.472
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.480
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.490
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.520
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.532
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.546
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.560
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.576
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:23:17.592
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:26:15.113
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.388
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.390
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.393
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.395
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.397
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.400
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.402
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.404
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.407
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:27:06.409
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.696
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.705
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.715
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.725
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.738
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.751
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.793
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.807
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.887
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:27:13.903
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:29:59.587
+!MESSAGE 1 files modified in module dbs-ws-client-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:07.306
+!MESSAGE 21 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.189
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.191
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.194
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.196
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.198
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.200
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.202
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.204
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.206
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:30:10.208
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.086
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.095
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.103
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.113
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.125
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.138
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.152
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.166
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.181
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:30:19.197
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:31:46.416
+!MESSAGE 3 files modified in module dbs-ws-client-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:31:57.451
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.259
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.262
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.264
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.266
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.268
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.270
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.273
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.275
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.277
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:32:00.279
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.139
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.148
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.156
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.166
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.179
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.192
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.206
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.221
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.238
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:06.254
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:32:58.190
+!MESSAGE 2 files modified in module dbs-ws-client-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:04.123
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.295
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.297
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.300
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.302
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.304
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.306
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.308
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.310
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.313
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:33:09.315
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.692
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.701
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.709
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.718
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.730
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.742
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.755
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.768
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.783
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:33:19.800
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:04.189
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.916
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.919
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.921
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.924
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.926
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.928
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.930
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.932
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.934
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:38:13.937
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.029
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.106
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.114
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.124
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.136
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.149
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.163
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.176
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.191
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:38:27.309
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:51:09.524
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.588
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.591
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.594
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.596
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.599
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.602
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.604
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.607
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.609
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 10:51:21.612
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-13 10:51:35.791
+!MESSAGE Error occurred while checking module state for dbs on server JBoss EAP 6.3.0.GA
+!STACK 0
+org.jboss.ide.eclipse.as.management.core.JBoss7ManangerException: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:336)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentNames(AS71Manager.java:389)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.hasDeployment(AS71Manager.java:383)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.getDeploymentStateSafe(AS71Manager.java:207)
+	at org.jboss.ide.eclipse.as.internal.management.as71.JBoss71ManagerService.getDeploymentState(JBoss71ManagerService.java:132)
+	at org.jboss.ide.eclipse.as.management.core.JBoss7ManagerServiceProxy.getDeploymentState(JBoss7ManagerServiceProxy.java:67)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:95)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getRootModuleState(JBoss7ModuleStateVerifier.java:82)
+	at org.jboss.ide.eclipse.as.core.server.internal.v7.JBoss7ModuleStateVerifier.getModuleState(JBoss7ModuleStateVerifier.java:66)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.runWait(UpdateModuleStateJob.java:80)
+	at org.jboss.ide.eclipse.as.core.server.internal.UpdateModuleStateJob.run(UpdateModuleStateJob.java:65)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.io.IOException: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:129)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:71)
+	at org.jboss.ide.eclipse.as.internal.management.as71.AS71Manager.execute(AS71Manager.java:325)
+	... 11 more
+Caused by: java.net.ConnectException: JBAS012144: Não foi possível conectar-se ao remote://localhost:9999. A conexão entrou em intervalo
+	at org.jboss.as.protocol.ProtocolConnectionUtils.connectSync(ProtocolConnectionUtils.java:131)
+	at org.jboss.as.protocol.ProtocolConnectionManager$EstablishingConnection.connect(ProtocolConnectionManager.java:256)
+	at org.jboss.as.protocol.ProtocolConnectionManager.connect(ProtocolConnectionManager.java:70)
+	at org.jboss.as.protocol.mgmt.FutureManagementChannel$Establishing.getChannel(FutureManagementChannel.java:176)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient.getOrCreateChannel(RemotingModelControllerClient.java:144)
+	at org.jboss.as.controller.client.impl.RemotingModelControllerClient$1.getChannel(RemotingModelControllerClient.java:65)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:115)
+	at org.jboss.as.protocol.mgmt.ManagementChannelHandler.executeRequest(ManagementChannelHandler.java:98)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeRequest(AbstractModelControllerClient.java:236)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.execute(AbstractModelControllerClient.java:141)
+	at org.jboss.as.controller.client.impl.AbstractModelControllerClient.executeForResult(AbstractModelControllerClient.java:127)
+	... 13 more
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.428
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.437
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.446
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.456
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.468
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.482
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.495
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.509
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.525
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:52:02.541
+!MESSAGE Module xsdlib-2010.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 10:56:05.086
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:00:18.937
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:07.653
+!MESSAGE 22 files modified in module dbs-ws-client-ejb
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.406
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.409
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.411
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.414
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.416
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.418
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.421
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.423
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.425
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-11-13 11:01:16.427
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.797
+!MESSAGE Module dbs-ws-client-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.829
+!MESSAGE Module jaxb-xjc-2.2.6.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.838
+!MESSAGE Module js-1.7R2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.848
+!MESSAGE Module msv-core-2011.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.860
+!MESSAGE Module opensaml-2.6.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.873
+!MESSAGE Module openws-1.5.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.886
+!MESSAGE Module serializer-2.7.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.899
+!MESSAGE Module xml-resolver-1.2.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.915
+!MESSAGE Module xmltooling-1.4.1.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-11-13 11:01:39.930
+!MESSAGE Module xsdlib-2010.1.jar published without error.

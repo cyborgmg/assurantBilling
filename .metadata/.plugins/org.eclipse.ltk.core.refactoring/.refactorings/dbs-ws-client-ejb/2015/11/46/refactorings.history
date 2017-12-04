@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename source folder &apos;dbs-ws-client-ejb/ejbModule&apos; to &apos;src&apos;&#x0D;&#x0A;- Original project: &apos;dbs-ws-client-ejb&apos;&#x0D;&#x0A;- Original element: &apos;dbs-ws-client-ejb/ejbModule&apos;&#x0D;&#x0A;- Renamed element: &apos;ejbModule&apos;" description="Rename source folder &apos;ejbModule&apos;" id="org.eclipse.jdt.ui.rename.source.folder" input="/ejbModule" name="src" stamp="1447411229111" version="1.0"/>
+</session>

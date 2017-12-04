@@ -1,0 +1,12 @@
+<jboss-deployment-structure ><!--  xmlns="urn:jboss:deployment-structure:1.2" -->
+<!-- 	<module name="deployment.dbsportal.jar.dbs-lib.jar" > -->
+<!-- 		<resources> -->
+<!-- 			<resource-root path="dbs-lib.jar" /> -->
+<!-- 		</resources> -->
+<!-- 	</module> -->
+	<deployment>
+		<dependencies>
+			<module name="deployment.dbs-lib.jar" />
+		</dependencies>
+	</deployment>
+</jboss-deployment-structure>

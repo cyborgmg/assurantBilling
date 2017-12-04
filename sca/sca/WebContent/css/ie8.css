@@ -1,0 +1,21 @@
+/* CSS Especial para IE8 */
+
+.menu .menuSetup        { width: 150px;  float: left; padding: 8px 0px; border-collapse: collapse; text-align:center; color:#09445d; font-size: 14px; font-weight:bold;  border-left: 1px solid #eee; border-top: 1px solid #fff; border-bottom: 1px solid #fff; border-right:1px solid #e9e9e9;}
+.menu .menuSetup        { margin: -16px 0px 0px 0px}
+.menu .menuSetup:hover  { padding: 8px 0px; border:1px solid #fd7802; text-decoration: none; color:#fff; background: url(../img/menu/corMenu.png) repeat-x;}
+.menuSetup a            { color:#555; }
+.menuSetup a:hover      { color: #0B55C4; text-decoration: none}
+
+.menuReq ul            { width: 200px; position: absolute; margin-top: 9px; left: 137px;}
+.menuReq ul li         { padding: 8px 25px; text-align:left; color:#09445d; font-weight:bold; border-left: 1px solid #eee; border-top: 1px solid #eee; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd;}
+.menuReq ul li:hover   { padding: 8px 25px; border:1px solid #fd7802; text-decoration: none; color:#fff; background: url(../img/menu/corMenu.png) repeat-x;}
+
+.menuConf ul            { width: 230px; position: absolute; margin-top: 9px; left: 441px;}
+.menuConf ul li         { padding: 8px 25px; background: #fff; text-align:left; color:#09445d; font-weight:bold; border-left: 1px solid #eee; border-top: 1px solid #eee; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd;}
+.menuConf ul li:hover   { padding: 8px 25px; border:1px solid #fd7802; text-decoration: none; color:#fff; background: #fff url(../img/menu/corMenu.png) repeat-x;}
+
+#Marcado{
+   border-right:  1px solid #6FADE6;
+   background:    url(../img/menu/corMenu.png) repeat-x;
+   color:         #000;
+}

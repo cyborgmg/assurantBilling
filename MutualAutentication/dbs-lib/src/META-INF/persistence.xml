@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0"
+	xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+	<persistence-unit name="dbs-PU" transaction-type="JTA">
+		<jta-data-source>jdbc/dbs</jta-data-source>
+		<class>br.com.delphos.billing.adquirentes.Adquirente</class>
+		<class>br.com.delphos.billing.adquirentes.AdquirenteBandeira</class>
+		<class>br.com.delphos.billing.adquirentes.AdquirenteBandeiraPK</class>
+		<class>br.com.delphos.billing.adquirentes.Bandeira</class>
+		<class>br.com.delphos.billing.cobrancas.Cobranca</class>
+		<class>br.com.delphos.billing.conciliacoes.ConciliacaoInterface</class>
+		<class>br.com.delphos.billing.conciliacoes.ControleConciliacao</class>
+		<class>br.com.delphos.billing.conciliacoes.EventoConciliacao</class>
+		<class>br.com.delphos.billing.conciliacoes.ProcConciliacaoEvento</class>
+		<class>br.com.delphos.billing.conciliacoes.ProcessamentoConciliacao</class>
+		<class>br.com.delphos.billing.contratosCobranca.ContratoCobranca</class>
+		<class>br.com.delphos.billing.contratosCobranca.RespostaAutorizacao</class>
+		<class>br.com.delphos.billing.empresas.Empresa</class>
+		<class>br.com.delphos.billing.listasValores.ItemLista</class>
+		<class>br.com.delphos.billing.listasValores.ListaValor</class>
+		<class>br.com.delphos.billing.logs.LogOperacaoUsuario</class>
+		<class>br.com.delphos.billing.logs.LogProcessoBatch</class>
+		<class>br.com.delphos.billing.meiosPagamento.MeioPagamento</class>
+		<class>br.com.delphos.billing.parametros.Parametro</class>
+		<class>br.com.delphos.billing.produtos.Produto</class>
+		<class>br.com.delphos.billing.provedores.Provedor</class>
+		<class>br.com.delphos.billing.sistemas.Sistema</class>
+		<class>br.com.delphos.billing.tentativas.Evento</class>
+		<class>br.com.delphos.billing.tentativas.Tentativa</class>
+		<class>br.com.delphos.billing.vendas.Venda</class>
+		<exclude-unlisted-classes>false</exclude-unlisted-classes>
+	</persistence-unit>
+</persistence>

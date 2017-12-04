@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://microsoft.com/wsdl/types/" />
+  <xs:element name="ConciliationFile" nillable="true" type="ConciliationFile" />
+  <xs:complexType name="ConciliationFile">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="ConciliatedTransactions" type="ArrayOfConciliatedTransaction" />
+      <xs:element minOccurs="0" maxOccurs="1" name="AffiliationAccountingEvents" type="ArrayOfEvent" />
+      <xs:element minOccurs="0" maxOccurs="1" name="AffiliationInformationalEvents" type="ArrayOfEvent" />
+    </xs:sequence>
+    <xs:attribute name="MerchantId" type="xs:int" use="required" />
+    <xs:attribute name="AcquirerId" type="xs:unsignedByte" use="required" />
+    <xs:attribute name="GenerationDateTime" type="xs:dateTime" use="required" />
+    <xs:attribute name="StartPeriod" type="xs:date" use="required" />
+    <xs:attribute name="EndPeriod" type="xs:date" use="required" />
+    <xs:attribute name="SequentialNumber" type="xs:int" />
+    <xs:attribute name="ProcessingTypeId" type="xs:int" use="required" />
+    <xs:attribute name="ProcessingType" type="ProcessingType" use="required" />
+    <xs:attribute name="Version" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="ArrayOfConciliatedTransaction">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ConciliatedTransaction" nillable="true" type="ConciliatedTransaction" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ConciliatedTransaction">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="ManualConciliationData" type="ManualConciliationData" />
+      <xs:element minOccurs="0" maxOccurs="1" name="SaleData" type="SaleTransactionData" />
+      <xs:element minOccurs="0" maxOccurs="1" name="AcquirerData" type="AcquirerTransactionData" />
+      <xs:element minOccurs="0" maxOccurs="1" name="AccountingEvents" type="ArrayOfEvent" />
+      <xs:element minOccurs="0" maxOccurs="1" name="InformationalEvents" type="ArrayOfEvent" />
+    </xs:sequence>
+    <xs:attribute name="ConciliationTypeId" type="xs:unsignedByte" use="required" />
+    <xs:attribute name="ConciliationType" type="ConciliationType" use="required" />
+  </xs:complexType>
+  <xs:complexType name="ManualConciliationData">
+    <xs:attribute name="ConciliationUserName" type="xs:string" />
+    <xs:attribute name="ConciliationDateTime" type="xs:dateTime" />
+  </xs:complexType>
+  <xs:complexType name="SaleTransactionData">
+    <xs:attribute name="TransactionId" xmlns:q1="http://microsoft.com/wsdl/types/" type="q1:guid" use="required" />
+    <xs:attribute name="ExternalId" type="xs:string" />
+    <xs:attribute name="BranchId" type="xs:string" />
+    <xs:attribute name="AffiliationCode" type="xs:long" use="required" />
+    <xs:attribute name="OrderId" type="xs:string" />
+    <xs:attribute name="AuthorizationCode" type="xs:string" />
+    <xs:attribute name="SaleDate" type="xs:date" />
+    <xs:attribute name="CaptureDate" type="xs:date" />
+    <xs:attribute name="TransactionAmount" type="xs:int" use="required" />
+    <xs:attribute name="InstallmentCount" type="xs:unsignedByte" use="required" />
+    <xs:attribute name="CustomerName" type="xs:string" />
+    <xs:attribute name="CustomerDocument" type="xs:string" />
+    <xs:attribute name="CustomerEmail" type="xs:string" />
+    <xs:attribute name="CardNumber" type="xs:string" />
+    <xs:attribute name="Tid" type="xs:string" />
+    <xs:attribute name="Nsu" type="xs:long" />
+    <xs:attribute name="IataAmount" type="xs:int" />
+    <xs:attribute name="PaymentMethodName" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="AcquirerTransactionData">
+    <xs:attribute name="TransactionId" xmlns:q2="http://microsoft.com/wsdl/types/" type="q2:guid" use="required" />
+    <xs:attribute name="AffiliationCode" type="xs:long" use="required" />
+    <xs:attribute name="SummaryNumber" type="xs:int" />
+    <xs:attribute name="CardNumber" type="xs:string" />
+    <xs:attribute name="SaleDate" type="xs:date" />
+    <xs:attribute name="TransactionGrossAmount" type="xs:long" use="required" />
+    <xs:attribute name="TransactionTaxAmount" type="xs:long" />
+    <xs:attribute name="TransactionNetAmount" type="xs:long" use="required" />
+    <xs:attribute name="RoundingInstallmentGrossAmount" type="xs:long" />
+    <xs:attribute name="RoundingInstallmentTaxAmount" type="xs:long" />
+    <xs:attribute name="RoundingInstallmentNetAmount" type="xs:long" />
+    <xs:attribute name="InstallmentsGrossAmount" type="xs:long" />
+    <xs:attribute name="InstallmentsTaxAmount" type="xs:long" />
+    <xs:attribute name="InstallmentsNetAmount" type="xs:long" />
+    <xs:attribute name="Tax" type="xs:short" />
+    <xs:attribute name="Tid" type="xs:string" />
+    <xs:attribute name="Nsu" type="xs:long" use="required" />
+    <xs:attribute name="IataAmount" type="xs:long" />
+    <xs:attribute name="OrderId" type="xs:string" />
+    <xs:attribute name="TerminalLogicNumber" type="xs:string" />
+    <xs:attribute name="CaptureDate" type="xs:date" use="required" />
+    <xs:attribute name="SummaryIdentifierNumber" type="xs:long" />
+    <xs:attribute name="InstallmentCount" type="xs:unsignedByte" use="required" />
+    <xs:attribute name="AuthorizationCode" type="xs:string" />
+    <xs:attribute name="CaptureMethodId" type="xs:unsignedByte" />
+    <xs:attribute name="CaptureMethodDescription" type="xs:string" />
+    <xs:attribute name="CardTypeId" type="xs:unsignedByte" />
+    <xs:attribute name="CardType" type="CardType" />
+    <xs:attribute name="ProductIdentifierCode" type="xs:short" />
+    <xs:attribute name="ProductIdentifierDescription" type="xs:string" />
+  </xs:complexType>
+  <xs:simpleType name="CardType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Undefined" />
+      <xs:enumeration value="Visa" />
+      <xs:enumeration value="Mastercard" />
+      <xs:enumeration value="Elo" />
+      <xs:enumeration value="Diners" />
+      <xs:enumeration value="Cabal" />
+      <xs:enumeration value="Hipercard" />
+      <xs:enumeration value="Agiplan" />
+      <xs:enumeration value="Banescard" />
+      <xs:enumeration value="CredSystem" />
+      <xs:enumeration value="Esplanada" />
+      <xs:enumeration value="CredZ" />
+      <xs:enumeration value="SoroCred" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="ArrayOfEvent">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Event" nillable="true" type="Event" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Event">
+    <xs:attribute name="EventId" xmlns:q3="http://microsoft.com/wsdl/types/" type="q3:guid" use="required" />
+    <xs:attribute name="EventDate" type="xs:date" use="required" />
+    <xs:attribute name="CategoryId" type="xs:unsignedByte" use="required" />
+    <xs:attribute name="Category" type="EventCategory" use="required" />
+    <xs:attribute name="TypeId" type="xs:unsignedByte" use="required" />
+    <xs:attribute name="Type" type="EventType" use="required" />
+    <xs:attribute name="AffiliationCode" type="xs:long" use="required" />
+    <xs:attribute name="TransactionInstallment" type="xs:unsignedByte" />
+    <xs:attribute name="GrossAmount" type="xs:long" />
+    <xs:attribute name="NetAmount" type="xs:long" />
+    <xs:attribute name="TaxAmount" type="xs:long" />
+    <xs:attribute name="Bank" type="xs:short" use="required" />
+    <xs:attribute name="Agency" type="xs:int" use="required" />
+    <xs:attribute name="Account" type="xs:string" />
+    <xs:attribute name="AcquirerAdjustCode" type="xs:string" />
+    <xs:attribute name="AcquirerAdjustDescription" type="xs:string" />
+    <xs:attribute name="AnticipationOperationNumber" type="xs:int" />
+    <xs:attribute name="OriginalPaymentDate" type="xs:date" />
+  </xs:complexType>
+  <xs:simpleType name="EventCategory">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Undefined" />
+      <xs:enumeration value="Adjust" />
+      <xs:enumeration value="ServiceFee" />
+      <xs:enumeration value="Capture" />
+      <xs:enumeration value="Payment" />
+      <xs:enumeration value="BatchPayment" />
+      <xs:enumeration value="Acceleration" />
+      <xs:enumeration value="Unscheduling" />
+      <xs:enumeration value="Reversal" />
+      <xs:enumeration value="Chargeback" />
+      <xs:enumeration value="Anticipation" />
+      <xs:enumeration value="BatchAnticipation" />
+      <xs:enumeration value="BatchAdjustment" />
+      <xs:enumeration value="Rescheduling" />
+      <xs:enumeration value="AnticipationOperationCost" />
+      <xs:enumeration value="RetainedValue" />
+      <xs:enumeration value="RetainedValuePayment" />
+      <xs:enumeration value="RetainedValueDebit" />
+      <xs:enumeration value="AnticipatedAdjusts" />
+      <xs:enumeration value="InstallmentsRounding" />
+      <xs:enumeration value="AnticipatedReversal" />
+      <xs:enumeration value="UndefinedAdjust" />
+      <xs:enumeration value="AccumulatedDebit" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="EventType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Undefined" />
+      <xs:enumeration value="Realized" />
+      <xs:enumeration value="Preview" />
+      <xs:enumeration value="Pending" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="ConciliationType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Undefined" />
+      <xs:enumeration value="Automatic" />
+      <xs:enumeration value="Manual" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="ProcessingType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Daily" />
+      <xs:enumeration value="Reprocessed" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

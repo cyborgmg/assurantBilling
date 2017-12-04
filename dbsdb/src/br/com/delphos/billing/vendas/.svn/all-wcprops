@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/vendas
+END
+VendaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/vendas/VendaDAO.java
+END
+VendaDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/vendas/VendaDLOBean.java
+END
+VendaDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/33071/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/vendas/VendaDAOBean.java
+END

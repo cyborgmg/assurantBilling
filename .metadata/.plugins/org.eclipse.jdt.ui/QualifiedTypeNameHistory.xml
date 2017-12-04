@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.com.delphos.billing.servicos.BillingService"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.servicos.retornos.RetornoIniciarVendaCartaoCredito"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.excecoes.BillingException"/>
+<fullyQualifiedTypeName name="javax.ejb.EJB"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.client.ServicoServerImplService"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.client.ServicoServer"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.time.DateUtils"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="com.sun.xml.txw2.Document"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.txw2.Document"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
+<fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.services.Ws"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+<fullyQualifiedTypeName name="javax.jws.WebParam"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.excecoes.BillingWebServiceException"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.services.BillingException"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.services.RetornoIniciarVendaCartaoCredito"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.services.RetornoCancelarVenda"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.services.BillingException_Exception"/>
+<fullyQualifiedTypeName name="br.com.delphos.billing.util.GerarToken"/>
+</qualifiedTypeNameHistroy>

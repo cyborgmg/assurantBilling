@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Delphos/!svn/ver/33660/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao
+END
+associarAdquirente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Delphos/!svn/ver/33343/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/associarAdquirente.jsp
+END
+manterListaValor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/32775/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterListaValor.jsp
+END
+manterAdquirente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/33660/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterAdquirente.jsp
+END
+manterContratoCobranca.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/33476/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterContratoCobranca.jsp
+END
+manterRespostaAutorizacao.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/33343/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterRespostaAutorizacao.jsp
+END
+manterBandeira.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterBandeira.jsp
+END
+manterMeioPagamento.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/32781/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterMeioPagamento.jsp
+END
+manterSistema.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Delphos/!svn/ver/32775/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterSistema.jsp
+END
+manterProvedorMeioPagamento.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterProvedorMeioPagamento.jsp
+END
+associarItemLista.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Delphos/!svn/ver/33343/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/associarItemLista.jsp
+END
+manterItemLista.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Delphos/!svn/ver/33140/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterItemLista.jsp
+END
+manterEmpresa.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Delphos/!svn/ver/32775/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterEmpresa.jsp
+END
+manterProduto.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Delphos/!svn/ver/32775/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/WebContent/configuracao/manterProduto.jsp
+END

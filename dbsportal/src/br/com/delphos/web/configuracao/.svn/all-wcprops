@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Delphos/!svn/ver/33678/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao
+END
+AdquirenteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/33660/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/AdquirenteAction.java
+END
+PrepararProvedorMeioPagamentoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/PrepararProvedorMeioPagamentoAction.java
+END
+AssociarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/AssociarAction.java
+END
+ConfiguracaoDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33660/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ConfiguracaoDecorator.java
+END
+SistemaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/SistemaAction.java
+END
+AutoCompleteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/31925/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/AutoCompleteServlet.java
+END
+ListarEmpresaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ListarEmpresaAction.java
+END
+EditarContratoCobrancaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/33476/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarContratoCobrancaAction.java
+END
+PrepararListaValorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/PrepararListaValorAction.java
+END
+ListaValorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/32942/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ListaValorAction.java
+END
+ConfiguracaoActionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33660/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ConfiguracaoActionForm.java
+END
+EditarEmpresaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarEmpresaAction.java
+END
+PrepararProdutoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/PrepararProdutoAction.java
+END
+EditarAdquirenteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33660/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarAdquirenteAction.java
+END
+EditarRespostaAutorizacaoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/32545/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarRespostaAutorizacaoAction.java
+END
+EditarProvedorMeioPagamentoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Delphos/!svn/ver/32586/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarProvedorMeioPagamentoAction.java
+END
+PrepararSistemaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/PrepararSistemaAction.java
+END
+PrepararBandeiraAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/PrepararBandeiraAction.java
+END
+RespostaAutorizacaoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/33071/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/RespostaAutorizacaoAction.java
+END
+BandeiraAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/BandeiraAction.java
+END
+ProvedorMeioPagamentoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ProvedorMeioPagamentoAction.java
+END
+EditarListaValorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/32637/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarListaValorAction.java
+END
+ListarProdutoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ListarProdutoAction.java
+END
+EditarMeioPagamentoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/32586/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarMeioPagamentoAction.java
+END
+PrepararContratoCobrancaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/PrepararContratoCobrancaAction.java
+END
+EditarAssociacaoAdquirenteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Delphos/!svn/ver/32899/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarAssociacaoAdquirenteAction.java
+END
+ContratoCobrancaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33088/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ContratoCobrancaAction.java
+END
+EditarItemListaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/32949/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarItemListaAction.java
+END
+MeioPagamentoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/33242/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/MeioPagamentoAction.java
+END
+EditarProdutoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/33678/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarProdutoAction.java
+END
+ItemListaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/32949/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ItemListaAction.java
+END
+ProdutoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ProdutoAction.java
+END
+ConfiguracaoViewHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33660/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/ConfiguracaoViewHelper.java
+END
+PrepararAdquirenteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/32807/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/PrepararAdquirenteAction.java
+END
+EditarSistemaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/32586/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarSistemaAction.java
+END
+EditarBandeiraAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/32682/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web/configuracao/EditarBandeiraAction.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos
+END
+RetornoCancelarVenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/29740/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoCancelarVenda.java
+END
+RetornoConsultarStatusCobranca.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Delphos/!svn/ver/30146/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoConsultarStatusCobranca.java
+END
+RetornoObterCodigoTransacaoProvedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoObterCodigoTransacaoProvedor.java
+END
+RetornoIniciarVendaCartaoCredito.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Delphos/!svn/ver/29850/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoIniciarVendaCartaoCredito.java
+END
+RetornoBillingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoBillingService.java
+END
+RetornoAutorizarVendaCartaoCredito.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoAutorizarVendaCartaoCredito.java
+END
+RetornoBaixarArquivoConciliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoBaixarArquivoConciliacao.java
+END
+RetornoCancelarCobrancaPendente.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Delphos/!svn/ver/30730/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoCancelarCobrancaPendente.java
+END
+RetornoUtilitario.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/servicos/retornos/RetornoUtilitario.java
+END

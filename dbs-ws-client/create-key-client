@@ -1,0 +1,7 @@
+"c:\LibJava\apache-cxf-2.7.17\bin\wsdl2java.bat" -fe jaxws21 -autoNameResolution -p br.com.delphos.billing.services -d "C:\desenv\Workspaces\assurantBilling\dbs-ws-client\src" C:\desenv\Workspaces\assurantBilling\dbs-ws\WebContent\wsdl\servicoserverimpl.wsdl
+
+"c:\LibJava\apache-cxf-2.7.17\bin\wsdl2java.bat" -fe jaxws21 -autoNameResolution -p br.com.delphos.billing.services -d "C:\desenv\Workspaces\assurantBilling\dbs-ws-client\src" http://localhost:8080/dbs-ws/services/servicoserver?wsdl
+
+keytool.exe -genkey -alias testkey -keystore keystore.jks -storepass storepass -dname "cn=testkey" -keyalg RSA
+keytool.exe -export -alias testkey -file publickey.rsa -keystore keystore.jks -storepass storepass
+keytool.exe -import -alias testkey -file publickey.rsa -keystore clientkeystore.jks -storepass clientstorepass

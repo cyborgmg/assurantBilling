@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/32721/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/wsclient
+END
+ControleAcessoServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/31841/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/wsclient/ControleAcessoServiceClient.java
+END
+SCAClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/32721/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/wsclient/SCAClient.java
+END
+ControleAcessoServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/wsclient/ControleAcessoServiceFactory.java
+END
+sca.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca/wsclient/sca.wsdl
+END

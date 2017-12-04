@@ -1,0 +1,59 @@
+package br.com.delphos.billing.client.clientsample;
+
+import br.com.delphos.billing.client.*;
+
+public class ClientSample {
+
+	public static void main(String[] args) throws BillingException_Exception {
+	        System.out.println("***********************");
+	        System.out.println("Create Web Service Client...");
+	        ServicoServerImplService service1 = new ServicoServerImplService();
+	        System.out.println("Create Web Service...");
+	        ServicoServer port1 = service1.getServicoServerImplPort();
+	        System.out.println("Call Web Service Operation...");
+	        
+	        
+	         RetornoIniciarVendaCartaoCredito iniciarVendaCartaoCredito = port1.iniciarVendaCartaoCredito(
+	        		 "6724224222423412726221723523412724226124999229206221206206206229"
+	        		 ,"AIZ"
+	        		 ,"PYB"
+	        		 ,"BMS"
+	        		 ,"50434483346"
+	        		 ,"MACHADO DE ASSIS"
+	        		 ,"teste@teste.com"
+	        		 ,"21"
+	        		 ,"99588562"
+	        		 ,"21"
+	        		 ,"22730419"
+	        		 ,"TST-DPH-001"
+	        		 ,"10/11/2015"
+	        		 ,"01"
+	        		 ,"88523123822"
+	        		 ,"MACHADO DE ASSIS"
+	        		 ,"0000000000000001"
+	        		 ,"02/2017"
+	        		 ,"111"
+	        		 ,"002"
+	        		 ,"10"
+	        		 ,"55416"
+	        		 ,"10/11/2015"
+	        		 ,"10/11/2016"
+	        		 );
+	        //Please input the parameters instead of 'null' for the upper method!
+	
+	        //System.out.println("Server said: " + port1.cancelarVenda(null,null,null,null,null,null,null,null,null));
+	        //Please input the parameters instead of 'null' for the upper method!
+/*	
+	        System.out.println("Create Web Service...");
+	        ServicoServer port2 = service1.getServicoServerImplPort();
+	        System.out.println("Call Web Service Operation...");
+	        System.out.println("Server said: " + port2.iniciarVendaCartaoCredito(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null));
+	        //Please input the parameters instead of 'null' for the upper method!
+	
+	        System.out.println("Server said: " + port2.cancelarVenda(null,null,null,null,null,null,null,null,null));
+	        //Please input the parameters instead of 'null' for the upper method!
+*/	
+	        System.out.println("***********************");
+	        System.out.println("Call Over!");
+	}
+}

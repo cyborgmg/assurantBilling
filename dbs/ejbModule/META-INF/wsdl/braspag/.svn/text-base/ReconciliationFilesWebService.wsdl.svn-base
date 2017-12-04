@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="https://reconciliation.braspag.com.br" xmlns:s1="http://microsoft.com/wsdl/types/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" targetNamespace="https://reconciliation.braspag.com.br" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Webservice para download de arquivos exportados pelo Reconciliation.</wsdl:documentation>
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="https://reconciliation.braspag.com.br">
+      <s:import namespace="http://microsoft.com/wsdl/types/" />
+      <s:element name="GetExportedFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:GetExportedFileRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetExportedFileRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractRequest">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="MerchantId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="RequestingPassword" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="ReferenceDate" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="FileFormatType" type="s:unsignedByte" />
+              <s:element minOccurs="1" maxOccurs="1" name="FileType" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="AbstractRequest" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="RequestId" type="s1:guid" />
+          <s:element minOccurs="0" maxOccurs="1" name="RequestingUserName" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetExportedFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetExportedFileResult" type="tns:GetExportedFileResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetExportedFileResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="FileContent" type="s:base64Binary" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="AbstractResponse" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CorrelatedId" type="s1:guid" />
+          <s:element minOccurs="1" maxOccurs="1" name="Success" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="ErrorReportCollection" type="tns:ArrayOfErrorReport" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfErrorReport">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ErrorReport" nillable="true" type="tns:ErrorReport" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ErrorReport">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Code" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetExportedFileV2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:GetExportedFileV2Request" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetExportedFileV2Request">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractRequest">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="MerchantId" type="s:int" />
+              <s:element minOccurs="1" maxOccurs="1" name="AcquirerId" type="s:unsignedByte" />
+              <s:element minOccurs="0" maxOccurs="1" name="RequestingPassword" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="ReferenceDate" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="FileExtensionType" type="s:unsignedByte" />
+              <s:element minOccurs="1" maxOccurs="1" name="FileType" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="GetExportedFileV2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetExportedFileV2Result" type="tns:GetExportedFileV2Response" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetExportedFileV2Response">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="FileContent" type="s:base64Binary" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="SendTransactionFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:SendTransactionFileRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SendTransactionFileRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:StoreTransactionFileRequest">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="RequestingPassword" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="StoreTransactionFileRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractRequest">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="MerchantId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="FileContent" type="s:base64Binary" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="SendTransactionFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SendTransactionFileResult" type="tns:StoreTransactionFileResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="StoreTransactionFileResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractResponse" />
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="GetTransactionFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:GetTransactionFileRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetTransactionFileRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:DownloadTransactionFileRequest">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="RequestingPassword" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="DownloadTransactionFileRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractRequest">
+            <s:sequence>
+              <s:element minOccurs="1" maxOccurs="1" name="MerchantId" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="FileName" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="GetTransactionFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTransactionFileResult" type="tns:DownloadTransactionFileResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DownloadTransactionFileResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:AbstractResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="FileContent" type="s:base64Binary" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/wsdl/types/">
+      <s:simpleType name="guid">
+        <s:restriction base="s:string">
+          <s:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}" />
+        </s:restriction>
+      </s:simpleType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetExportedFileSoapIn">
+    <wsdl:part name="parameters" element="tns:GetExportedFile" />
+  </wsdl:message>
+  <wsdl:message name="GetExportedFileSoapOut">
+    <wsdl:part name="parameters" element="tns:GetExportedFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetExportedFileV2SoapIn">
+    <wsdl:part name="parameters" element="tns:GetExportedFileV2" />
+  </wsdl:message>
+  <wsdl:message name="GetExportedFileV2SoapOut">
+    <wsdl:part name="parameters" element="tns:GetExportedFileV2Response" />
+  </wsdl:message>
+  <wsdl:message name="SendTransactionFileSoapIn">
+    <wsdl:part name="parameters" element="tns:SendTransactionFile" />
+  </wsdl:message>
+  <wsdl:message name="SendTransactionFileSoapOut">
+    <wsdl:part name="parameters" element="tns:SendTransactionFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTransactionFileSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTransactionFile" />
+  </wsdl:message>
+  <wsdl:message name="GetTransactionFileSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTransactionFileResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ReconciliationFilesWebServiceSoap">
+    <wsdl:operation name="GetExportedFile">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtém arquivos de venda diários do tipo, no formato e na data especificada.</wsdl:documentation>
+      <wsdl:input message="tns:GetExportedFileSoapIn" />
+      <wsdl:output message="tns:GetExportedFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExportedFileV2">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtém arquivo de conciliação na nova versão, no formato e na data especificada.</wsdl:documentation>
+      <wsdl:input message="tns:GetExportedFileV2SoapIn" />
+      <wsdl:output message="tns:GetExportedFileV2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SendTransactionFile">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Envia um arquivo de transações para ser importado pelo Conciliador.</wsdl:documentation>
+      <wsdl:input message="tns:SendTransactionFileSoapIn" />
+      <wsdl:output message="tns:SendTransactionFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTransactionFile">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtém um arquivo de transações já importado para o Conciliador.</wsdl:documentation>
+      <wsdl:input message="tns:GetTransactionFileSoapIn" />
+      <wsdl:output message="tns:GetTransactionFileSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ReconciliationFilesWebServiceSoap" type="tns:ReconciliationFilesWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetExportedFile">
+      <soap:operation soapAction="https://reconciliation.braspag.com.br/GetExportedFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExportedFileV2">
+      <soap:operation soapAction="https://reconciliation.braspag.com.br/GetExportedFileV2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendTransactionFile">
+      <soap:operation soapAction="https://reconciliation.braspag.com.br/SendTransactionFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTransactionFile">
+      <soap:operation soapAction="https://reconciliation.braspag.com.br/GetTransactionFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ReconciliationFilesWebServiceSoap12" type="tns:ReconciliationFilesWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetExportedFile">
+      <soap12:operation soapAction="https://reconciliation.braspag.com.br/GetExportedFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExportedFileV2">
+      <soap12:operation soapAction="https://reconciliation.braspag.com.br/GetExportedFileV2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendTransactionFile">
+      <soap12:operation soapAction="https://reconciliation.braspag.com.br/SendTransactionFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTransactionFile">
+      <soap12:operation soapAction="https://reconciliation.braspag.com.br/GetTransactionFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ReconciliationFilesWebService">
+    <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Webservice para download de arquivos exportados pelo Reconciliation.</wsdl:documentation>
+    <wsdl:port name="ReconciliationFilesWebServiceSoap" binding="tns:ReconciliationFilesWebServiceSoap">
+      <soap:address location="https://reconciliation.braspag.com.br/WebServices/ReconciliationFilesWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ReconciliationFilesWebServiceSoap12" binding="tns:ReconciliationFilesWebServiceSoap12">
+      <soap12:address location="https://reconciliation.braspag.com.br/WebServices/ReconciliationFilesWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/33621/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util
+END
+ServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/ServiceHelper.java
+END
+GerarToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Delphos/!svn/ver/28904/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/GerarToken.java
+END
+LoggerWrappers.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/29620/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/LoggerWrappers.java
+END
+RegraNegocio.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/30121/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/RegraNegocio.java
+END
+Validador.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/33070/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/Validador.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Delphos/!svn/ver/31223/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/Data.java
+END
+CurrencyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33599/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/CurrencyUtils.java
+END
+ServiceHelperGenerico.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/ServiceHelperGenerico.java
+END
+Mensagens.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/31925/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/Mensagens.java
+END
+LoggerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/29282/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/LoggerWrapper.java
+END
+Slf4jWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/29620/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/Slf4jWrapper.java
+END
+RetornoServico.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/30121/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/RetornoServico.java
+END
+Configuracoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33621/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/Configuracoes.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Delphos/!svn/ver/31358/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/StringUtils.java
+END
+AbstractRegraNegocio.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/30121/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/AbstractRegraNegocio.java
+END
+JpaUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Delphos/!svn/ver/32548/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/JpaUtils.java
+END
+ValorRetorno.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/ValorRetorno.java
+END
+EntidadeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33577/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/EntidadeUtils.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/33513/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/util/DateUtils.java
+END

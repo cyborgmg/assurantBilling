@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Delphos/!svn/ver/33680/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient
+END
+Autenticar.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/Autenticar.java
+END
+AutorizarResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/AutorizarResponse.java
+END
+ConfirmarEmailUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ConfirmarEmailUsuario.java
+END
+OperacaoUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/OperacaoUsuario.java
+END
+Sincronizar.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/32475/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/Sincronizar.java
+END
+ListarUsuariosPorParteDescricaoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ListarUsuariosPorParteDescricaoResponse.java
+END
+ObterPorNomeLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterPorNomeLogin.java
+END
+ListarUsuariosResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ListarUsuariosResponse.java
+END
+AlterarSenha.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/AlterarSenha.java
+END
+IniciarEsqueceuSenhaResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/IniciarEsqueceuSenhaResponse.java
+END
+FinalizarEsqueciSenha.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/FinalizarEsqueciSenha.java
+END
+AutenticarResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/AutenticarResponse.java
+END
+ConfirmarEmailUsuarioResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ConfirmarEmailUsuarioResponse.java
+END
+SincronizarResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/SincronizarResponse.java
+END
+ObterUsuarioPorId.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterUsuarioPorId.java
+END
+ObterPorNomeLoginResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterPorNomeLoginResponse.java
+END
+ObterEmpresasUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterEmpresasUsuario.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/package-info.java
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/Usuario.java
+END
+AlterarSenhaResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/AlterarSenhaResponse.java
+END
+FinalizarEsqueciSenhaResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/FinalizarEsqueciSenhaResponse.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObjectFactory.java
+END
+ObterUsuarioPorIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterUsuarioPorIdResponse.java
+END
+ObterNomeUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterNomeUsuario.java
+END
+ObterEmpresasUsuarioResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterEmpresasUsuarioResponse.java
+END
+ControleAcessoServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ControleAcessoServiceClient.java
+END
+ControleAcessoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/32475/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ControleAcessoService.java
+END
+GrupoUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/GrupoUsuario.java
+END
+ObterUsuarioPorToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterUsuarioPorToken.java
+END
+SCAClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Delphos/!svn/ver/33680/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/SCAClient.java
+END
+Sistema.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/Sistema.java
+END
+Autorizar.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/Autorizar.java
+END
+ObterNomeUsuarioResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterNomeUsuarioResponse.java
+END
+ListarUsuariosPorParteDescricao.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ListarUsuariosPorParteDescricao.java
+END
+ObterUsuarioPorTokenResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ObterUsuarioPorTokenResponse.java
+END
+ListarUsuarios.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/ListarUsuarios.java
+END
+Empresa.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/Empresa.java
+END
+IniciarEsqueceuSenha.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/IniciarEsqueceuSenha.java
+END
+sca.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Delphos/!svn/ver/32023/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/sca/wsclient/sca.wsdl
+END

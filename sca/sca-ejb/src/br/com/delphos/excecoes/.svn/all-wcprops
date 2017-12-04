@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Delphos/!svn/ver/31841/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes
+END
+ParametroInvalidoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/ParametroInvalidoException.java
+END
+ValidacaoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/ValidacaoException.java
+END
+EntidadeDuplicadaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/EntidadeDuplicadaException.java
+END
+EntidadeInvalidaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/EntidadeInvalidaException.java
+END
+PersistenciaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/PersistenciaException.java
+END
+EntidadeInexistenteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/EntidadeInexistenteException.java
+END
+DelphosException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/DelphosException.java
+END
+DelphosRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/31841/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/DelphosRuntimeException.java
+END
+SessaoInvalidaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/SessaoInvalidaException.java
+END
+SenhaIncorretaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/SenhaIncorretaException.java
+END
+RestricaoPersistenciaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/RestricaoPersistenciaException.java
+END
+SenhaInvalidaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/SenhaInvalidaException.java
+END
+SessaoExpiradaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/SessaoExpiradaException.java
+END
+SenhaExpiradaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/SenhaExpiradaException.java
+END
+SessaoInexistenteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/excecoes/SessaoInexistenteException.java
+END

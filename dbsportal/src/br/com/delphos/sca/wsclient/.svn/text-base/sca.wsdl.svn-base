@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://delphos.com.br/sca" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http" name="ControleAcessoServiceBeanService" targetNamespace="http://delphos.com.br/sca">
+  <wsdl:types>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://delphos.com.br/sca" elementFormDefault="unqualified" targetNamespace="http://delphos.com.br/sca" version="1.0">
+
+  <xs:element name="alterarSenha" type="tns:alterarSenha"/>
+
+  <xs:element name="alterarSenhaResponse" type="tns:alterarSenhaResponse"/>
+
+  <xs:element name="autenticar" type="tns:autenticar"/>
+
+  <xs:element name="autenticarResponse" type="tns:autenticarResponse"/>
+
+  <xs:element name="autorizar" type="tns:autorizar"/>
+
+  <xs:element name="autorizarResponse" type="tns:autorizarResponse"/>
+
+  <xs:element name="confirmarEmailUsuario" type="tns:confirmarEmailUsuario"/>
+
+  <xs:element name="confirmarEmailUsuarioResponse" type="tns:confirmarEmailUsuarioResponse"/>
+
+  <xs:element name="empresa" type="tns:empresa"/>
+
+  <xs:element name="finalizarEsqueciSenha" type="tns:finalizarEsqueciSenha"/>
+
+  <xs:element name="finalizarEsqueciSenhaResponse" type="tns:finalizarEsqueciSenhaResponse"/>
+
+  <xs:element name="grupoUsuario" type="tns:grupoUsuario"/>
+
+  <xs:element name="iniciarEsqueceuSenha" type="tns:iniciarEsqueceuSenha"/>
+
+  <xs:element name="iniciarEsqueceuSenhaResponse" type="tns:iniciarEsqueceuSenhaResponse"/>
+
+  <xs:element name="listarUsuarios" type="tns:listarUsuarios"/>
+
+  <xs:element name="listarUsuariosPorParteDescricao" type="tns:listarUsuariosPorParteDescricao"/>
+
+  <xs:element name="listarUsuariosPorParteDescricaoResponse" type="tns:listarUsuariosPorParteDescricaoResponse"/>
+
+  <xs:element name="listarUsuariosResponse" type="tns:listarUsuariosResponse"/>
+
+  <xs:element name="obterEmpresasUsuario" type="tns:obterEmpresasUsuario"/>
+
+  <xs:element name="obterEmpresasUsuarioResponse" type="tns:obterEmpresasUsuarioResponse"/>
+
+  <xs:element name="obterNomeUsuario" type="tns:obterNomeUsuario"/>
+
+  <xs:element name="obterNomeUsuarioResponse" type="tns:obterNomeUsuarioResponse"/>
+
+  <xs:element name="obterPorNomeLogin" type="tns:obterPorNomeLogin"/>
+
+  <xs:element name="obterPorNomeLoginResponse" type="tns:obterPorNomeLoginResponse"/>
+
+  <xs:element name="obterUsuarioPorId" type="tns:obterUsuarioPorId"/>
+
+  <xs:element name="obterUsuarioPorIdResponse" type="tns:obterUsuarioPorIdResponse"/>
+
+  <xs:element name="obterUsuarioPorToken" type="tns:obterUsuarioPorToken"/>
+
+  <xs:element name="obterUsuarioPorTokenResponse" type="tns:obterUsuarioPorTokenResponse"/>
+
+  <xs:element name="sincronizar" type="tns:sincronizar"/>
+
+  <xs:element name="sincronizarResponse" type="tns:sincronizarResponse"/>
+
+  <xs:element name="sistema" type="tns:sistema"/>
+
+  <xs:element name="usuario" type="tns:usuario"/>
+
+  <xs:complexType name="confirmarEmailUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="token" type="xs:string"/>
+      <xs:element minOccurs="0" name="hashSenha" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="confirmarEmailUsuarioResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="usuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codigo" type="xs:string"/>
+      <xs:element minOccurs="0" name="descricao" type="xs:string"/>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" ref="tns:empresa"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" ref="tns:grupoUsuario"/>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="token" type="xs:string"/>
+    </xs:sequence>
+    <xs:attribute name="xmlID" type="xs:ID"/>
+  </xs:complexType>
+
+  <xs:complexType name="empresa">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codigo" type="xs:string"/>
+      <xs:element minOccurs="0" name="descricao" type="xs:string"/>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element maxOccurs="unbounded" minOccurs="0" ref="tns:sistema"/>
+    </xs:sequence>
+    <xs:attribute name="xmlID" type="xs:ID"/>
+  </xs:complexType>
+
+  <xs:complexType name="sistema">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="descricao" type="xs:string"/>
+      <xs:element minOccurs="0" ref="tns:empresa"/>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="sigla" type="xs:string"/>
+    </xs:sequence>
+    <xs:attribute name="xmlID" type="xs:ID"/>
+  </xs:complexType>
+
+  <xs:complexType name="grupoUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="descricao" type="xs:string"/>
+      <xs:element minOccurs="0" name="id" type="xs:long"/>
+      <xs:element minOccurs="0" name="tipoGrupo" type="xs:string"/>
+    </xs:sequence>
+    <xs:attribute name="xmlID" type="xs:ID"/>
+  </xs:complexType>
+
+  <xs:complexType name="autenticar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="usuario" type="xs:string"/>
+      <xs:element minOccurs="0" name="senha" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="autenticarResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterUsuarioPorToken">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="token" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterUsuarioPorTokenResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterEmpresasUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="uid" type="xs:string"/>
+      <xs:element minOccurs="0" name="token" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterEmpresasUsuarioResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:empresa"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="iniciarEsqueceuSenha">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="login" type="xs:string"/>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
+      <xs:element minOccurs="0" name="nomeServidor" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="iniciarEsqueceuSenhaResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:boolean"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterUsuarioPorId">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="idUsuario" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterUsuarioPorIdResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterNomeUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="idUsuario" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterNomeUsuarioResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listarUsuarios">
+    <xs:sequence/>
+  </xs:complexType>
+
+  <xs:complexType name="listarUsuariosResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterPorNomeLogin">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="nomeLogin" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="obterPorNomeLoginResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="alterarSenha">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="uid" type="xs:string"/>
+      <xs:element minOccurs="0" name="atual" type="xs:string"/>
+      <xs:element minOccurs="0" name="nova" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="alterarSenhaResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:boolean"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listarUsuariosPorParteDescricao">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="parteDescricao" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="listarUsuariosPorParteDescricaoResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="autorizar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="uid" type="xs:string"/>
+      <xs:element minOccurs="0" name="token" type="xs:string"/>
+      <xs:element minOccurs="0" name="uri" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="autorizarResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:boolean"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="sincronizar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="uid" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="sincronizarResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="finalizarEsqueciSenha">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="token" type="xs:string"/>
+      <xs:element minOccurs="0" name="hashNovaSenha" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="finalizarEsqueciSenhaResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:usuario"/>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>
+  </wsdl:types>
+  <wsdl:message name="obterPorNomeLogin">
+    <wsdl:part element="tns:obterPorNomeLogin" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listarUsuariosPorParteDescricao">
+    <wsdl:part element="tns:listarUsuariosPorParteDescricao" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="finalizarEsqueciSenhaResponse">
+    <wsdl:part element="tns:finalizarEsqueciSenhaResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="autenticarResponse">
+    <wsdl:part element="tns:autenticarResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterEmpresasUsuario">
+    <wsdl:part element="tns:obterEmpresasUsuario" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="iniciarEsqueceuSenhaResponse">
+    <wsdl:part element="tns:iniciarEsqueceuSenhaResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="alterarSenha">
+    <wsdl:part element="tns:alterarSenha" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="sincronizar">
+    <wsdl:part element="tns:sincronizar" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listarUsuariosPorParteDescricaoResponse">
+    <wsdl:part element="tns:listarUsuariosPorParteDescricaoResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterUsuarioPorToken">
+    <wsdl:part element="tns:obterUsuarioPorToken" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterUsuarioPorId">
+    <wsdl:part element="tns:obterUsuarioPorId" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterUsuarioPorIdResponse">
+    <wsdl:part element="tns:obterUsuarioPorIdResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="alterarSenhaResponse">
+    <wsdl:part element="tns:alterarSenhaResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterNomeUsuarioResponse">
+    <wsdl:part element="tns:obterNomeUsuarioResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="sincronizarResponse">
+    <wsdl:part element="tns:sincronizarResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterEmpresasUsuarioResponse">
+    <wsdl:part element="tns:obterEmpresasUsuarioResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listarUsuarios">
+    <wsdl:part element="tns:listarUsuarios" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="autenticar">
+    <wsdl:part element="tns:autenticar" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="finalizarEsqueciSenha">
+    <wsdl:part element="tns:finalizarEsqueciSenha" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterNomeUsuario">
+    <wsdl:part element="tns:obterNomeUsuario" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterUsuarioPorTokenResponse">
+    <wsdl:part element="tns:obterUsuarioPorTokenResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="obterPorNomeLoginResponse">
+    <wsdl:part element="tns:obterPorNomeLoginResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="autorizar">
+    <wsdl:part element="tns:autorizar" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="confirmarEmailUsuario">
+    <wsdl:part element="tns:confirmarEmailUsuario" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="confirmarEmailUsuarioResponse">
+    <wsdl:part element="tns:confirmarEmailUsuarioResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="listarUsuariosResponse">
+    <wsdl:part element="tns:listarUsuariosResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="iniciarEsqueceuSenha">
+    <wsdl:part element="tns:iniciarEsqueceuSenha" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="autorizarResponse">
+    <wsdl:part element="tns:autorizarResponse" name="parameters">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="ControleAcesso">
+    <wsdl:operation name="confirmarEmailUsuario">
+      <wsdl:input message="tns:confirmarEmailUsuario" name="confirmarEmailUsuario">
+    </wsdl:input>
+      <wsdl:output message="tns:confirmarEmailUsuarioResponse" name="confirmarEmailUsuarioResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="autenticar">
+      <wsdl:input message="tns:autenticar" name="autenticar">
+    </wsdl:input>
+      <wsdl:output message="tns:autenticarResponse" name="autenticarResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterUsuarioPorToken">
+      <wsdl:input message="tns:obterUsuarioPorToken" name="obterUsuarioPorToken">
+    </wsdl:input>
+      <wsdl:output message="tns:obterUsuarioPorTokenResponse" name="obterUsuarioPorTokenResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterEmpresasUsuario">
+      <wsdl:input message="tns:obterEmpresasUsuario" name="obterEmpresasUsuario">
+    </wsdl:input>
+      <wsdl:output message="tns:obterEmpresasUsuarioResponse" name="obterEmpresasUsuarioResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="iniciarEsqueceuSenha">
+      <wsdl:input message="tns:iniciarEsqueceuSenha" name="iniciarEsqueceuSenha">
+    </wsdl:input>
+      <wsdl:output message="tns:iniciarEsqueceuSenhaResponse" name="iniciarEsqueceuSenhaResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterUsuarioPorId">
+      <wsdl:input message="tns:obterUsuarioPorId" name="obterUsuarioPorId">
+    </wsdl:input>
+      <wsdl:output message="tns:obterUsuarioPorIdResponse" name="obterUsuarioPorIdResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterNomeUsuario">
+      <wsdl:input message="tns:obterNomeUsuario" name="obterNomeUsuario">
+    </wsdl:input>
+      <wsdl:output message="tns:obterNomeUsuarioResponse" name="obterNomeUsuarioResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarUsuarios">
+      <wsdl:input message="tns:listarUsuarios" name="listarUsuarios">
+    </wsdl:input>
+      <wsdl:output message="tns:listarUsuariosResponse" name="listarUsuariosResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterPorNomeLogin">
+      <wsdl:input message="tns:obterPorNomeLogin" name="obterPorNomeLogin">
+    </wsdl:input>
+      <wsdl:output message="tns:obterPorNomeLoginResponse" name="obterPorNomeLoginResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="alterarSenha">
+      <wsdl:input message="tns:alterarSenha" name="alterarSenha">
+    </wsdl:input>
+      <wsdl:output message="tns:alterarSenhaResponse" name="alterarSenhaResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarUsuariosPorParteDescricao">
+      <wsdl:input message="tns:listarUsuariosPorParteDescricao" name="listarUsuariosPorParteDescricao">
+    </wsdl:input>
+      <wsdl:output message="tns:listarUsuariosPorParteDescricaoResponse" name="listarUsuariosPorParteDescricaoResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="autorizar">
+      <wsdl:input message="tns:autorizar" name="autorizar">
+    </wsdl:input>
+      <wsdl:output message="tns:autorizarResponse" name="autorizarResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sincronizar">
+      <wsdl:input message="tns:sincronizar" name="sincronizar">
+    </wsdl:input>
+      <wsdl:output message="tns:sincronizarResponse" name="sincronizarResponse">
+    </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="finalizarEsqueciSenha">
+      <wsdl:input message="tns:finalizarEsqueciSenha" name="finalizarEsqueciSenha">
+    </wsdl:input>
+      <wsdl:output message="tns:finalizarEsqueciSenhaResponse" name="finalizarEsqueciSenhaResponse">
+    </wsdl:output>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ControleAcessoServiceBeanServiceSoapBinding" type="tns:ControleAcesso">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="autenticar">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="autenticar">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="autenticarResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="confirmarEmailUsuario">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="confirmarEmailUsuario">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="confirmarEmailUsuarioResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterUsuarioPorToken">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="obterUsuarioPorToken">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="obterUsuarioPorTokenResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterEmpresasUsuario">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="obterEmpresasUsuario">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="obterEmpresasUsuarioResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="iniciarEsqueceuSenha">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="iniciarEsqueceuSenha">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="iniciarEsqueceuSenhaResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterUsuarioPorId">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="obterUsuarioPorId">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="obterUsuarioPorIdResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarUsuarios">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listarUsuarios">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listarUsuariosResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterNomeUsuario">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="obterNomeUsuario">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="obterNomeUsuarioResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="alterarSenha">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="alterarSenha">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="alterarSenhaResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obterPorNomeLogin">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="obterPorNomeLogin">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="obterPorNomeLoginResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listarUsuariosPorParteDescricao">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="listarUsuariosPorParteDescricao">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="listarUsuariosPorParteDescricaoResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="autorizar">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="autorizar">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="autorizarResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="finalizarEsqueciSenha">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="finalizarEsqueciSenha">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="finalizarEsqueciSenhaResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sincronizar">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="sincronizar">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="sincronizarResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ControleAcessoServiceBeanService">
+    <wsdl:port binding="tns:ControleAcessoServiceBeanServiceSoapBinding" name="ControleAcessoPort">
+      <soap:address location="http://localhost:8080/sca-ejb/ControleAcesso"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

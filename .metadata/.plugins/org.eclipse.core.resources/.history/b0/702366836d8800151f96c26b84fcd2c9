@@ -1,0 +1,52 @@
+package br.com.delphos.billing.main;
+
+import org.jdesktop.http.Response;
+
+import org.jdesktop.http.Session;
+
+import org.jdesktop.http.State;
+
+
+
+public class GetXmlHttp{
+
+
+    public static void main(String[] args) {
+
+        getResponse();
+
+    }
+
+    public static void getResponse()
+    {
+
+        final Session session = new Session();
+
+        try {
+            String url="http://webhomolog.delphos.com.br/WebServiceAssurant/retornarChaveAcesso.asp";
+            final Response res= session.get(url);
+            boolean notDone=true;
+            do
+            {
+                System.out.print(session.getState().toString());
+
+                if(session.getState()==State.DONE)
+                {
+                    String xml=res.toString();
+                    System.out.println(xml);
+                    notDone=false;
+
+
+                }
+
+            }while(notDone);
+
+        } catch (Exception e1) {
+
+            e1.printStackTrace();
+        }
+
+
+    }
+
+}

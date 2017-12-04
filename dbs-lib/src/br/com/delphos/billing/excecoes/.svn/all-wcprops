@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Delphos/!svn/ver/33577/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/excecoes
+END
+BillingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/32073/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/excecoes/BillingException.java
+END
+ValidacaoDLOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/33577/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/excecoes/ValidacaoDLOException.java
+END
+EntidadeExistenteDLOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/excecoes/EntidadeExistenteDLOException.java
+END
+PesquisaVaziaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/32073/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/excecoes/PesquisaVaziaException.java
+END
+DLOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Delphos/!svn/ver/32073/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/excecoes/DLOException.java
+END
+BillingWebServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/30730/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/excecoes/BillingWebServiceException.java
+END

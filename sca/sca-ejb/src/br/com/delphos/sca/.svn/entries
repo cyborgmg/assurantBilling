@@ -1,0 +1,55 @@
+10
+
+dir
+33816
+http://svn.delphos.com.br/svn/Delphos/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/sca
+http://svn.delphos.com.br/svn/Delphos
+
+
+
+2015-10-23T19:30:26.346435Z
+33646
+cristiano.cortez
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+801ce6d6-6737-4b7b-ac39-7f07e7646ef2
+
+empresas
+dir
+
+constantes
+dir
+
+parametrosSmtp
+dir
+
+gruposInterfaces
+dir
+
+sistemas
+dir
+
+wsclient
+dir
+
+usuarios
+dir
+
+spool
+dir
+
+servicos
+dir
+

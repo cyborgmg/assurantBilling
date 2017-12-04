@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/wsdl/braspag
+END
+PagadorQuery.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/wsdl/braspag/PagadorQuery.wsdl
+END
+PagadorTransaction.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/wsdl/braspag/PagadorTransaction.wsdl
+END
+ReconciliationFilesWebService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/wsdl/braspag/ReconciliationFilesWebService.wsdl
+END

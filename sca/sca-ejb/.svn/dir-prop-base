@@ -1,0 +1,16 @@
+K 14
+bugtraq:number
+V 4
+true
+K 18
+svn:global-ignores
+V 10
+generated
+
+K 10
+svn:ignore
+V 14
+bin
+generated
+
+END

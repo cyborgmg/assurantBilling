@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/exportacoes
+END
+ExportacaoConciliacaoDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/exportacoes/ExportacaoConciliacaoDLOBean.java
+END
+ExportacaoCobrancaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/29053/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/exportacoes/ExportacaoCobrancaDAO.java
+END
+ExportacaoCobrancaDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/exportacoes/ExportacaoCobrancaDLOBean.java
+END
+ExportacaoConciliacaoDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/31975/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/exportacoes/ExportacaoConciliacaoDAOBean.java
+END
+ExportacaoCobrancaDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/31975/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/exportacoes/ExportacaoCobrancaDAOBean.java
+END
+ExportacaoConciliacaoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/29053/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/exportacoes/ExportacaoConciliacaoDAO.java
+END

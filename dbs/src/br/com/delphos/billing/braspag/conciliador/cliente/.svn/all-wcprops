@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/33623/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente
+END
+SendTransactionFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/SendTransactionFile.java
+END
+Adapter1.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/Adapter1.java
+END
+GetExportedFileV2.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFileV2.java
+END
+Adapter2.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/Adapter2.java
+END
+GetExportedFileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFileRequest.java
+END
+Adapter3.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/Adapter3.java
+END
+GetExportedFileV2Response2.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFileV2Response2.java
+END
+GetTransactionFileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetTransactionFileResponse.java
+END
+ReconciliationFilesWebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/Delphos/!svn/ver/33623/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/ReconciliationFilesWebService.java
+END
+SendTransactionFileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/SendTransactionFileRequest.java
+END
+GetExportedFileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFileResponse.java
+END
+ArrayOfErrorReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/ArrayOfErrorReport.java
+END
+GetExportedFileV2Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFileV2Request.java
+END
+StoreTransactionFileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/StoreTransactionFileRequest.java
+END
+AbstractRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/AbstractRequest.java
+END
+SendTransactionFileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/SendTransactionFileResponse.java
+END
+GetExportedFileV2Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFileV2Response.java
+END
+StoreTransactionFileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/StoreTransactionFileResponse.java
+END
+AbstractResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/AbstractResponse.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/package-info.java
+END
+ErrorReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/ErrorReport.java
+END
+GetTransactionFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetTransactionFile.java
+END
+DownloadTransactionFileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/DownloadTransactionFileRequest.java
+END
+ReconciliationFilesWebServiceSoap.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/ReconciliationFilesWebServiceSoap.java
+END
+GetExportedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFile.java
+END
+GetExportedFileResponse2.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetExportedFileResponse2.java
+END
+DownloadTransactionFileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/DownloadTransactionFileResponse.java
+END
+GetTransactionFileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/GetTransactionFileRequest.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/conciliador/cliente/ObjectFactory.java
+END

@@ -1,0 +1,10 @@
+cxfJ2WSGenerateWebMethodAnnotation=true
+cxfRuntimeLocations=C\:\\LibJava\\apache-cxf-2.7.17
+cxfRuntimeTypes=Apache CXF
+cxfRuntimeVersions=2.7.17
+cxfW2JAutoNameResolution=true
+cxfW2JNoAddressBinding=true
+defaultRuntimeLocation=C\:\\LibJava\\apache-cxf-2.7.17
+defaultRuntimeType=Apache CXF
+defaultRuntimeVersion=2.7.17
+eclipse.preferences.version=1

@@ -1,0 +1,11 @@
+2015-11-04 09:47:00,385 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-04 09:47:03,927 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.2.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1-sources.jar
+2015-11-04 09:47:04,047 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-04 09:47:05,040 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.2.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1-sources.jar
+2015-11-04 09:47:05,872 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.repository.redhat.com/techpreview/all/org/jboss/spec/javax/servlet/jboss-servlet-api_3.0_spec/1.0.2.Final-redhat-1/jboss-servlet-api_3.0_spec-1.0.2.Final-redhat-1-sources.jar
+2015-11-04 10:18:36,176 [Worker-31] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-04 10:18:36,754 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/activemq/activemq-client/5.8.0/activemq-client-5.8.0-sources.jar
+2015-11-04 10:18:39,763 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/activemq/activemq-client/5.8.0/activemq-client-5.8.0-sources.jar
+2015-11-10 10:02:53,107 [Worker-18] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-10 10:02:54,164 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-bundle/2.7.17/cxf-bundle-2.7.17-sources.jar
+2015-11-10 10:03:06,802 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-bundle/2.7.17/cxf-bundle-2.7.17-sources.jar

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/contratosCobranca
+END
+ContratoCobrancaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/32574/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/contratosCobranca/ContratoCobrancaDAO.java
+END
+RespostaAutorizacaoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/31538/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/contratosCobranca/RespostaAutorizacaoDAO.java
+END
+ContratoCobrancaDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/contratosCobranca/ContratoCobrancaDLOBean.java
+END
+RespostaAutorizacaoDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/contratosCobranca/RespostaAutorizacaoDLOBean.java
+END
+ContratoCobrancaDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/32743/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/contratosCobranca/ContratoCobrancaDAOBean.java
+END
+RespostaAutorizacaoDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/32743/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/contratosCobranca/RespostaAutorizacaoDAOBean.java
+END

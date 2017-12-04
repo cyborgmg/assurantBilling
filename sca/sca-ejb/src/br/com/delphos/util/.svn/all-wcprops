@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Delphos/!svn/ver/33646/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util
+END
+Mensagens.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/Mensagens.java
+END
+Validador.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/Validador.java
+END
+Configuracoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Delphos/!svn/ver/31841/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/Configuracoes.java
+END
+ScaUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/ScaUtils.java
+END
+JPAUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/JPAUtil.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/Data.java
+END
+Criptografia.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/util/Criptografia.java
+END

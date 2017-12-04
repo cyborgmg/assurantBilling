@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Delphos/!svn/ver/33813/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes
+END
+ConciliacaoInterfaceDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/33288/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ConciliacaoInterfaceDLO.java
+END
+EventoConciliacaoDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33466/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/EventoConciliacaoDLO.java
+END
+ConciliacaoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33772/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ConciliacaoInterface.java
+END
+EventoConciliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/33772/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/EventoConciliacao.java
+END
+ProcessamentoConciliacaoDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Delphos/!svn/ver/31655/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ProcessamentoConciliacaoDLO.java
+END
+ProcessamentoConciliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/33725/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ProcessamentoConciliacao.java
+END
+ProcConciliacaoEventoDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/33542/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ProcConciliacaoEventoDLO.java
+END
+ControleConciliacaoDLO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/33813/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ControleConciliacaoDLO.java
+END
+ProcConciliacaoEvento.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/33725/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ProcConciliacaoEvento.java
+END
+ControleConciliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33723/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/conciliacoes/ControleConciliacao.java
+END

@@ -1,0 +1,92 @@
+10
+
+dir
+33816
+http://svn.delphos.com.br/svn/Delphos/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent
+http://svn.delphos.com.br/svn/Delphos
+
+
+
+2015-10-27T14:59:39.584377Z
+33704
+jean.bahia
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+801ce6d6-6737-4b7b-ac39-7f07e7646ef2
+
+META-INF
+dir
+
+configuracao
+dir
+
+principal
+dir
+
+index.jsp
+file
+
+
+
+
+2015-10-30T12:22:32.263937Z
+5ce47cf1cf2884519f9f355e05b90e10
+2015-08-10T18:58:28.932106Z
+31801
+rodrigo.elias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59
+
+ajuda
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+login
+dir
+
+pesquisa
+dir
+
+img
+dir
+
+js
+dir
+

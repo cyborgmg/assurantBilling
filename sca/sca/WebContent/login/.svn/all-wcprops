@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Delphos/!svn/ver/32070/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/login
+END
+reiniciarSenha.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Delphos/!svn/ver/32070/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/login/reiniciarSenha.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Delphos/!svn/ver/31970/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/login/login.jsp
+END
+nautor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Delphos/!svn/ver/31970/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/login/nautor.jsp
+END
+logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Delphos/!svn/ver/31970/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/login/logout.jsp
+END
+trocarSenha.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Delphos/!svn/ver/32070/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/login/trocarSenha.jsp
+END
+esqueceuSenha.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Delphos/!svn/ver/32070/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca/WebContent/login/esqueceuSenha.jsp
+END

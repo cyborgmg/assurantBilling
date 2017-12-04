@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Delphos/!svn/ver/33658/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes
+END
+BandeiraDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/32743/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/BandeiraDAOBean.java
+END
+AdquirenteBandeiraDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/AdquirenteBandeiraDAOBean.java
+END
+AdquirenteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/33658/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/AdquirenteDAO.java
+END
+AdquirenteDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/33658/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/AdquirenteDLOBean.java
+END
+BandeiraDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Delphos/!svn/ver/31076/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/BandeiraDAO.java
+END
+BandeiraDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/33089/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/BandeiraDLOBean.java
+END
+AdquirenteBandeiraDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/31538/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/AdquirenteBandeiraDAO.java
+END
+AdquirenteDAOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/33658/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/AdquirenteDAOBean.java
+END
+AdquirenteBandeiraDLOBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/33288/Desenv/Projetos/Web/Java/Billing/dbs/dbsdb/trunk/src/br/com/delphos/billing/adquirentes/AdquirenteBandeiraDLOBean.java
+END

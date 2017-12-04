@@ -1,0 +1,13 @@
+<jboss-deployment-structure><!--  xmlns="urn:jboss:deployment-structure:1.2" -->
+	<deployment>	
+		<dependencies>
+						
+			<module name="deployment.dbs-lib.jar" />
+		</dependencies>
+		
+		<exclude-subsystems>
+			<subsystem name="webservices" />
+		</exclude-subsystems>	
+			
+	</deployment>
+</jboss-deployment-structure>

@@ -1,0 +1,92 @@
+10
+
+dir
+33817
+http://svn.delphos.com.br/svn/Delphos/Desenv/Projetos/Web/Java/Billing/dbs/dbsportal/trunk/src/br/com/delphos/web
+http://svn.delphos.com.br/svn/Delphos
+
+
+
+2015-10-30T12:02:41.268547Z
+33812
+jean.bahia
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+801ce6d6-6737-4b7b-ac39-7f07e7646ef2
+
+configuracao
+dir
+
+vendas
+dir
+
+filtros
+dir
+
+relatorios
+dir
+
+conciliacao
+dir
+
+logs
+dir
+
+widgets
+dir
+
+ApplicationResource.properties
+file
+
+
+
+
+2015-10-30T12:24:23.116265Z
+d5cc765abf0ff4559026ca938cd43a0b
+2015-10-30T12:02:41.268547Z
+33812
+jean.bahia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38296
+
+seguranca
+dir
+
+usuarios
+dir
+
+consultas
+dir
+

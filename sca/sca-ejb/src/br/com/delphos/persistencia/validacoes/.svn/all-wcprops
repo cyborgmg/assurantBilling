@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes
+END
+ExclusaoPorIdentidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/ExclusaoPorIdentidade.java
+END
+Integridade.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/Integridade.java
+END
+Criacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/Criacao.java
+END
+ExclusaoPorId.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/ExclusaoPorId.java
+END
+Identificacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/Identificacao.java
+END
+ConsultaPorIdentidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/ConsultaPorIdentidade.java
+END
+ConsultaPorId.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/ConsultaPorId.java
+END
+Identidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/Identidade.java
+END
+Validacoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/Validacoes.java
+END
+Alteracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/31788/Desenv/Projetos/Web/Java/Billing/sca/trunk/sca-ejb/src/br/com/delphos/persistencia/validacoes/Alteracao.java
+END

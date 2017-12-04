@@ -1,0 +1,25 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bil="http://delphos.com.br/billing">
+  <soapenv:Header/>
+  <soapenv:Body>
+     <bil:cancelarVenda>
+        <!--Optional:-->
+        <codigoEmpresa>AIZ</codigoEmpresa>
+        <!--Optional:-->
+        <codigoProduto>PYB</codigoProduto>
+        <!--Optional:-->
+        <codigoSistema>BMS</codigoSistema>
+        <!--Optional:-->
+        <token>6724224222423412726221723523412724226124999229206221206206206229</token>
+        <!--Optional:-->
+        <cpf>98324985972</cpf>
+        <!--Optional:-->
+        <codigoVenda>TST-DPH-001</codigoVenda>
+        <!--Optional:-->
+        <codigoMotivoCancelamento>001</codigoMotivoCancelamento>
+        <!--Optional:-->
+        <valorEstorno>-1</valorEstorno>
+        <!--Optional:-->
+        <flagCancelamentoGateway>S</flagCancelamentoGateway>
+     </bil:cancelarVenda>
+  </soapenv:Body>
+</soapenv:Envelope>

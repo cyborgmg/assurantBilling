@@ -1,0 +1,18 @@
+package br.com.delphos.billing.ejb;
+
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class consomeDbsWs
+ */
+@Stateless
+public class consomeDbsWs implements consomeDbsWsRemote {
+
+    /**
+     * Default constructor. 
+     */
+    public consomeDbsWs() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

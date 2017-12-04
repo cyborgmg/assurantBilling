@@ -1,0 +1,16 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 23
+bin
+generated
+diagrams
+
+K 13
+svn:mergeinfo
+V 64
+/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/stable:31542-33664
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Delphos/!svn/ver/33352/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF
+END
+jboss-ejb3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Delphos/!svn/ver/30121/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/jboss-ejb3.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Delphos/!svn/ver/30790/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/logging.properties
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Delphos/!svn/ver/33352/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/persistence.xml
+END
+jboss-all.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Delphos/!svn/ver/29052/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/jboss-all.xml
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Delphos/!svn/ver/29616/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/MANIFEST.MF
+END
+beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Delphos/!svn/ver/29446/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/beans.xml
+END
+ejb-jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Delphos/!svn/ver/29848/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/ejb-jar.xml
+END
+jboss-deployment-structure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Delphos/!svn/ver/29880/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/ejbModule/META-INF/jboss-deployment-structure.xml
+END

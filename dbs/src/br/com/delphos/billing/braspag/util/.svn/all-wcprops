@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Delphos/!svn/ver/33711/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/util
+END
+BraspagServiceFactories.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/util/BraspagServiceFactories.java
+END
+BraspagServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/33711/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/util/BraspagServiceFactory.java
+END
+PagadorReconciliationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/util/PagadorReconciliationFactory.java
+END
+PagadorQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/29911/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/util/PagadorQueryFactory.java
+END
+PagadorTransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/29848/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/util/PagadorTransactionFactory.java
+END

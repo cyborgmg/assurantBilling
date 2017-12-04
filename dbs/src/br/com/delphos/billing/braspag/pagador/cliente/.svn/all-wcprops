@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente
+END
+ArrayOfAdditionalDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ArrayOfAdditionalDataRequest.java
+END
+AuthorizeTransactionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AuthorizeTransactionResponse.java
+END
+OnlineDebitDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/OnlineDebitDataRequest.java
+END
+CustomerDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/CustomerDataRequest.java
+END
+ArrayOfPaymentDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ArrayOfPaymentDataRequest.java
+END
+OnlineDebitDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/OnlineDebitDataResponse.java
+END
+NiquelDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/NiquelDataResponse.java
+END
+CreditCardDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/CreditCardDataRequest.java
+END
+MobilePaymentDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/MobilePaymentDataRequest.java
+END
+BoletoBankData.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/BoletoBankData.java
+END
+OneBuyDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/OneBuyDataResponse.java
+END
+AdditionalDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AdditionalDataRequest.java
+END
+AbstractRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AbstractRequest.java
+END
+CreditCardDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/CreditCardDataResponse.java
+END
+OrderDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/OrderDataRequest.java
+END
+RefundCreditCardTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/RefundCreditCardTransaction.java
+END
+RefundCreditCardTransactionResponse2.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/RefundCreditCardTransactionResponse2.java
+END
+MobileDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/MobileDataResponse.java
+END
+PaymentDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/PaymentDataRequest.java
+END
+ArrayOfTransactionDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ArrayOfTransactionDataResponse.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/package-info.java
+END
+BoletoDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/BoletoDataRequest.java
+END
+RefundCreditCardTransactionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/RefundCreditCardTransactionRequest.java
+END
+AddressDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AddressDataRequest.java
+END
+DebitCardDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/DebitCardDataResponse.java
+END
+ArrayOfNiquelItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ArrayOfNiquelItemData.java
+END
+VoidCreditCardTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/VoidCreditCardTransaction.java
+END
+BoletoDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/BoletoDataResponse.java
+END
+RefundCreditCardTransactionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/RefundCreditCardTransactionResponse.java
+END
+VoidCreditCardTransactionResponse2.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/VoidCreditCardTransactionResponse2.java
+END
+CaptureCreditCardTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/CaptureCreditCardTransaction.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ObjectFactory.java
+END
+TransactionDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/TransactionDataResponse.java
+END
+CaptureCreditCardTransactionResponse2.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/CaptureCreditCardTransactionResponse2.java
+END
+NiquelDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/NiquelDataRequest.java
+END
+OneBuyDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/OneBuyDataRequest.java
+END
+VoidCreditCardTransactionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/VoidCreditCardTransactionRequest.java
+END
+NiquelItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/NiquelItemData.java
+END
+PagadorTransactionSoap.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/PagadorTransactionSoap.java
+END
+CaptureCreditCardTransactionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/CaptureCreditCardTransactionRequest.java
+END
+ArrayOfPaymentDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ArrayOfPaymentDataResponse.java
+END
+PagadorTransaction.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/33127/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/PagadorTransaction.wsdl
+END
+VoidCreditCardTransactionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/VoidCreditCardTransactionResponse.java
+END
+ArrayOfTransactionDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ArrayOfTransactionDataRequest.java
+END
+CaptureCreditCardTransactionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/CaptureCreditCardTransactionResponse.java
+END
+AuthorizeTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AuthorizeTransaction.java
+END
+AuthorizeTransactionResponse2.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AuthorizeTransactionResponse2.java
+END
+NiquelPhoneData.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/NiquelPhoneData.java
+END
+ExternalAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ExternalAuthentication.java
+END
+AbstractResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AbstractResponse.java
+END
+ArrayOfErrorReportDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ArrayOfErrorReportDataResponse.java
+END
+PagadorTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/33158/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/PagadorTransaction.java
+END
+DebitCardDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/DebitCardDataRequest.java
+END
+OrderDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/OrderDataResponse.java
+END
+PaymentDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/PaymentDataResponse.java
+END
+AffiliationDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AffiliationDataRequest.java
+END
+TransactionDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/TransactionDataRequest.java
+END
+AuthorizeTransactionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/AuthorizeTransactionRequest.java
+END
+ErrorReportDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Delphos/!svn/ver/28227/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/pagador/cliente/ErrorReportDataResponse.java
+END

@@ -1,0 +1,17 @@
+package br.com.delphos.billing.main;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.apache.commons.lang.time.DateUtils;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println( new SimpleDateFormat("dd/MM/yyyy").format(new Date()) );
+		//DateUtil.
+		System.out.println( new SimpleDateFormat("dd/MM/yyyy").format( DateUtils.addYears((new Date()), 1)     ) );
+	}
+
+}

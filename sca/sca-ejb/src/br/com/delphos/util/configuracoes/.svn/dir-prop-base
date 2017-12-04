@@ -1,0 +1,26 @@
+K 14
+bugtraq:append
+V 5
+false
+K 13
+bugtraq:label
+V 7
+Ticket:
+K 15
+bugtraq:message
+V 31
+Alteração do Ticket %BUGID%: 
+K 11
+bugtraq:url
+V 72
+http://svn.delphos.com.br/svn/Delphos/Desenv/Projetos/Web/ticket/%BUGID%
+K 21
+bugtraq:warnifnoissue
+V 4
+true
+K 10
+svn:ignore
+V 9
+exemplos
+
+END

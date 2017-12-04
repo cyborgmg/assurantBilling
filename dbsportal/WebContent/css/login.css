@@ -1,0 +1,16 @@
+#loginBox { width:480px; margin:0 auto; padding:30px; font-size:14px; font-weight:bold; color:#555; background:url(../img/menu/bg_login.jpg) -20px -50px no-repeat; border:1px solid #eee; -moz-border-radius:8px; -webkit-border-radius:8px; border-radius:8px; }
+#loginBox table { width:100%; }
+#loginBox table td { width:50%; padding:4px 0; }
+#loginBox .LoginBtn { display:inline-block; padding:6px 0; margin:0 auto; width: 99.6%; text-align: right; }
+#loginBox .btn { margin-right: 24px; }
+#loginBox #criarConta { margin-right: 12px; }
+
+#loginBox label { display:block; width:90%; padding:8px 0px; text-align:left; }
+
+#loginBox input[type=text], #loginBox input[type=password] { display:block; width:75%; font-size:14px; color:#999; font-weight: bold; padding:8px 24px; border:1px solid #ddd; }
+#loginBox input[type=text] { background: #fff url(../img/icones/usuario_16x16.png) 5px 50% no-repeat; }
+#loginBox input[type=text]:focus { background: #fff url(../img/icones/usuario_16x16.png) 5px 50% no-repeat; border: 1px solid #fad42e; }
+#loginBox input[type=password] { background: #fff url(../img/icones/cadeado_16x16.png) 5px 50% no-repeat; }
+#loginBox input[type=password]:focus { background: #fff url(../img/icones/cadeado_16x16.png) 5px 50% no-repeat; border: 1px solid #fad42e;}
+
+#msgLoginAlerta { width:70%; margin: 20px auto; padding: 40px 26px 40px 94px; background: #fbf9ee url(../img/icones/alerta_64x64.png) 15px 40px no-repeat; border: 1px solid #fcefa1; color: #5b3715;}

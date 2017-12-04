@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Delphos/!svn/ver/33802/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/servicos
+END
+BraspagConsultaServiceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/33609/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/servicos/BraspagConsultaServiceBean.java
+END
+BraspagPagadorServiceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/31973/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/servicos/BraspagPagadorServiceBean.java
+END
+BraspagConciliacaoServiceBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Delphos/!svn/ver/33802/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/servicos/BraspagConciliacaoServiceBean.java
+END

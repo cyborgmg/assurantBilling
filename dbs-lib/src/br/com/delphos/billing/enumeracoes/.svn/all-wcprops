@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Delphos/!svn/ver/33813/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes
+END
+StatusVenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/31851/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusVenda.java
+END
+TipoBandeira.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/29054/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoBandeira.java
+END
+StatusLogProcesso.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/29740/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusLogProcesso.java
+END
+TipoCobranca.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Delphos/!svn/ver/33504/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoCobranca.java
+END
+StatusLogOperacaoUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/30351/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusLogOperacaoUsuario.java
+END
+TipoPagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/30297/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoPagamento.java
+END
+StatusCobranca.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/31077/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusCobranca.java
+END
+TipoListaValor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/33553/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoListaValor.java
+END
+TipoRecuperacaoFalhaServico.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/29868/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoRecuperacaoFalhaServico.java
+END
+Entidade.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/32873/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/Entidade.java
+END
+StatusProcConciliacaoEvento.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/33549/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusProcConciliacaoEvento.java
+END
+TipoMensagemConciliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/33813/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoMensagemConciliacao.java
+END
+StatusControleConciliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Delphos/!svn/ver/33711/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusControleConciliacao.java
+END
+PropriedadeConfiguracao.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/33621/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/PropriedadeConfiguracao.java
+END
+TipoMetrica.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Delphos/!svn/ver/30001/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoMetrica.java
+END
+CodigoMensagem.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Delphos/!svn/ver/33662/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/CodigoMensagem.java
+END
+TipoConciliacaoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/33466/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoConciliacaoInterface.java
+END
+TipoMeioPagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/29054/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoMeioPagamento.java
+END
+IdentificadorProcesso.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Delphos/!svn/ver/33772/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/IdentificadorProcesso.java
+END
+CodigoRetornoUtilitario.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/CodigoRetornoUtilitario.java
+END
+StatusAutorizacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/30930/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusAutorizacao.java
+END
+SimNao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Delphos/!svn/ver/31859/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/SimNao.java
+END
+MotivoCancelamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/33577/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/MotivoCancelamento.java
+END
+StatusConciliacaoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/33549/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusConciliacaoInterface.java
+END
+TipoTentativa.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Delphos/!svn/ver/30730/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoTentativa.java
+END
+CodigoRetornoWebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/29915/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/CodigoRetornoWebService.java
+END
+CodigoRetornoAutorizarVenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Delphos/!svn/ver/31181/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/CodigoRetornoAutorizarVenda.java
+END
+TipoEvento.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Delphos/!svn/ver/33466/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoEvento.java
+END
+StatusCancelamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/30730/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/StatusCancelamento.java
+END
+TipoOperacaoUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/32545/Desenv/Projetos/Web/Java/Billing/dbs/dbs-lib/trunk/src/br/com/delphos/billing/enumeracoes/TipoOperacaoUsuario.java
+END

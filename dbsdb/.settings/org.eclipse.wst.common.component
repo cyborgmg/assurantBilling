@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="dbsdb">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/" source-path="/src"/>
+        <dependent-module archiveName="dbs-lib.jar" deploy-path="/" handle="module:/resource/dbs-lib/dbs-lib">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="java-output-path" value="/dbsdb/bin"/>
+    </wb-module>
+</project-modules>

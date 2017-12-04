@@ -1,0 +1,506 @@
+/* barra --> configuracao comum a todas as barras */
+.barras { display: block; width:95%; margin:10px auto; padding:8px 20px; border:1px solid #ddd; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; }
+
+/* menu --> topo */
+ul                      { list-style: none; cursor: default}
+.barrasMenu             { display: block; width:97%; margin:10px auto; padding:8px 9px; border:1px solid #ddd; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; }
+.menu                   { border-bottom-left-radius:8px; border-bottom-right-radius:8px; padding: 11px 6px}
+.menu .menuSetup        { width: 150px;  float: left; padding: 8px 0px; border-collapse: collapse; text-align:center; color:#09445d; font-size: 14px; font-weight:bold;  border-left: 1px solid #ddd; border-top: 1px solid #fff; border-bottom: 1px solid #fff; border-right:1px solid #ddd;}
+.menu .menuSetup        { margin: -16px 0px 0px 0px}
+.menu .menuSetup:hover  { padding: 8px 0px; border:1px solid #fd7802; text-decoration: none; color:#fff; background: #fff url(../img/menu/corMenu.png)repeat-x;}
+.menuSetup a            { color:#555; }
+.menuSetup a:hover      { color: #0B55C4; text-decoration: none}
+
+.menuReq ul            { width: 200px; position: absolute; margin-top: 9px; left: 137px; z-index: 1}
+.menuReq ul li         { padding: 8px 25px; background: #fff; text-align:left; color:#09445d; font-weight:bold; border-left: 1px solid #eee; border-top: 1px solid #eee; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd;}
+.menuReq ul li:hover   { padding: 8px 25px; border:1px solid #fd7802; text-decoration: none; color:#fff; background: #fff url(../img/menu/corMenu.png) repeat-x;}
+
+.menuConf ul            { width: 230px; position: absolute; margin-top: 9px; left: 441px; z-index: 1}
+.menuConf ul li         { padding: 8px 25px; background: #fff; text-align:left; color:#09445d; font-weight:bold; border-left: 1px solid #eee; border-top: 1px solid #eee; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd;}
+.menuConf ul li:hover   { padding: 8px 25px; border:1px solid #fd7802; text-decoration: none; color:#fff; background: #fff url(../img/menu/corMenu.png) repeat-x;}
+
+#Marcado{
+   border-right:  1px solid #6FADE6;
+   background:    #fff url(../img/menu/corMenu.png)repeat-x;
+   color:         #000;
+}
+
+#downArrow{ margin-left: 14px; margin-bottom: 2px; }
+
+/* barra --> configuracao especifica de cada barra */
+.barras.sul p { text-align:center; margin:0; padding:8px 0; }
+
+
+/* barra --> topo */
+.barras .topo { width: 100%; }
+.barras .topo td { width: 50%; font-size: 18px; font-weight: bold;  }
+.barras .topo td img { vertical-align: middle; }
+.barras .topo td.botoes { text-align: right; }
+.barras .topo td.versao { text-align: right; font-size: 10px; }
+.barras .topo a { display: inline-block; position: relative; width: 24px; margin: 0; padding: 4px; background: #eee; border: 1px solid #ddd; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; }
+.barras .topo a:hover { background: #fff; border: 1px solid #ddd; }
+
+.identificaoUsuario { color: #f57021; }
+
+/* barra --> navegacao */
+.barras .navegacao { width:960px; margin: 0 auto;}
+.barras .navegacao td {  }
+.barras .navegacao td.botoesRetornar{ width:38%; text-align: right; }
+.barras .navegacao td.botoesCentro{ width:23%; text-align: center; font-size: 28px; font-weight: bold; color: #ccc; }
+.barras .navegacao td.botoesAvancar{ width:38%; text-align: left; }
+.barras .navegacao a { display: inline-block; position: relative; width: 58px; margin:0 4px; padding: 4px 6px; background: #eee; border: 1px solid #ccc; color: #384884; text-decoration: none; font-size: 10px; font-weight: normal; text-align: center; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; }
+.barras .navegacao a:hover { border: 1px solid #eee; background:#fff; }
+
+
+/* tabela --> formul�rios */
+.tabelas { padding: 10px 20px; }
+.tabelas table { width:100%; border-collapse: collapse; }
+.tabelas table td { padding: 4px 10px 4px 2px; text-align: left; }
+.tabelas table th { border: 1px solid #eee; padding: 4px 10px; text-align: left; }
+.tabelas .label { width: 20%; text-align: right; }
+.tabelas .tabelaReadWrite2 .label { width: 16%; text-align: right; }
+.tabelas table td.label{ border: 1px solid white; }
+.h2Esquerda { text-align: left; }
+
+.multiSelect { min-width: 190px; border: 1px solid #ddd; max-width: 200px; max-height: 180px;}
+table.TabelaPrin { width: 100%; border-spacing: 1px; color: #666;}
+table.TabelaPrin td,
+table.TabelaPrin th { padding: 1px;}
+table.TabelaPrin thead th { text-align: center; background: #f0f0f0; color: #0B55C4; font-size:14px; border-bottom: 0px solid #999; border-left: 0px solid #fff;}
+table.TabelaPrin thead a:hover { text-decoration: none;}
+table.TabelaPrin tbody th { font-weight: bold;}
+table.TabelaPrin tbody tr { background-color: #fff;  text-align: left;}
+table.TabelaPrin tbody tr.even 	{ background: #f9f9f9; border-top: 1px solid #fff;}
+table.TabelaPrin tbody tr.odd:hover td, table.TabelaPrin tbody tr.even:hover td  { background-color: #e6f0ff ;}
+table.TabelaPrin tbody tr td { background: #fff; border: 1px solid #fff; line-height: 20px; padding: 0px 10px 0px 2px;}
+table.TabelaPrin tbody tr td.Label { background: #c5cadd; border: 1px solid #ccc; height: 32px;}
+table.TabelaPrin tbody tr td.upload { vertical-align: top; padding-top: 10px;}
+table.TabelaPrin tbody tr td.Label label { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #243a4f;}
+table.TabelaPrin tbody tr.even td { background: #f9f9f9; border-top: 1px solid #FFF;line-height: 20px;}
+table.TabelaPrin tbody tr td input { border: 1px solid #CDD3D8; padding: 4px 8px; background: #eee;}
+table.multiSelectTable tbody td table tbody tr th { padding-left: 4px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #243a4f; border: none;}
+table.TabelaPrin td.order { text-align: center; white-space: nowrap; }
+table.TabelaPrin td.order span { float: left; display: block; width: 15px; text-align: center; }
+.Paginacao { padding-left:240px; padding-top:5px; padding-bottom:5px; margin:0 auto; background-color: #f3f3f3; border-top: 1px solid #999; border-left: 1px solid #ddd; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; display:block; text-align:center; height:22px;}
+
+
+/* tabela --> login */
+.BoxModal { display:block; width:90%; padding:0; margin: 20px auto; }
+.BoxModal label { padding:4px 0px; }
+.BoxModal .IconeInputCpf { font-weight: bold; color:#999; padding-top:6px;padding-bottom:6px; width:200px; }
+.LoginBtn { width: 100%; text-align: right; }
+
+
+/* tabela --> display-tag NOVA */
+.DisplayTag { padding: 0; text-align: center;}
+.DisplayTag table { width:100%; border-collapse: collapse; }
+.DisplayTag table td, .DisplayTag table th { border: 1px solid #eee; padding: 4px 10px; text-align: center; }
+.DisplayTag table th { padding: 8px 10px; }
+.DisplayTag table th a { text-decoration: none; }
+.DisplayTag table td.label{ width: 20%; text-align: right; border: 1px solid #eee; }
+
+
+#boxConfirmacao { width:70%; margin: 20px auto; padding: 40px 26px 40px 26px; background: #f5f5f5 15px 40px no-repeat; border: 1px solid #e3e3e3; color: #09445D;}
+
+/* tabela --> para as display-tags que tiverem muita informa��o */
+.AjusteDisplay table td, .AjusteDisplay table th { padding: 4px 4px; }
+.AjusteDisplay table th { padding: 8px 4px; }
+
+.paginacao {
+    width:100%; 
+    padding:10px 0; 
+    margin:0 auto; 
+    text-align:center;
+}
+
+.inicio.off, .anterior.off, .proximo.off, .fim.off, .PaginacaoNumeros.off { 
+    border: 1px solid #aaaaaa; 
+    background: #cccccc url(../css/images/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x; 
+    color: #222222; 
+    font-weight: bold;
+}
+
+th.sorted a, th.sortable a {
+    background-position: right;
+    display: block;
+    width: 100%;
+}
+
+th.sortable a {
+    background-image: url(../img/icones/displaytag/seta_disable_white.png);
+    background-repeat:no-repeat;
+    background-position:50% right;
+}
+
+th.order1 a {
+    background-image: url(../img/icones/displaytag/seta_baixo_white.png);
+    background-repeat:no-repeat;
+    background-position:50% right;
+}
+
+th.order2 a {
+    background-image: url(../img/icones/displaytag/seta_cima_white.png);
+    background-repeat:no-repeat;
+    background-position:50% right;
+}
+
+/* GALERIA DE ICONES REVISADA */
+/* icones */
+.Icone16x16 { display:block; width:18px; height:18px; margin:0 auto; cursor: pointer; }
+.Icone22x22 { display: block; width: 24px; height: 24px; margin:auto; cursor: pointer; }
+.Icone24x24 { display: block; width: 26px; height: 26px; margin:auto; cursor: pointer; }
+
+/* topo tela */
+.IconeUsuario { background: url(../img/icones/usuario_16x16.png) 50% 50% no-repeat }
+.IconeTrocaSenha { background: url(../img/icones/senha_16x16.png) 50% 50% no-repeat }
+.IconeSair { background: url(../img/icones/sair_16x16.png) 50% 50% no-repeat }
+
+/* tela */
+.IconeCampoBloqueado { background: url(../img/icones/cadeado_16x16.png) 50% 50% no-repeat }
+.IconeAjuda { background: url(../img/icones/ajuda_16x16.png) 50% 50% no-repeat }
+.IconeLixeira { background: url(../img/icones/lixeira_16x16.png) 50% 50% no-repeat }
+.IconeAdicionar { background: url(../img/icones/adicionar_22x22.png) 50% 50% no-repeat }
+.IconeVisualizar { background: url(../img/icones/pesquisar_16x16.png) 50% 50% no-repeat }
+.IconeEditar { background: url(../img/icones/editar_16x16.png) 50% 50% no-repeat }
+.IconeAdicionarItem { background: url(../img/icones/AddItem.png) 50% 50% no-repeat; width: 110px }
+.IconeAdicionarRateio { background: url(../img/icones/AddRateio.png) 50% 50% no-repeat; width: 125px }
+
+/* barra de navegacao */
+.IconeNavegacaoAjuda { background: url(../img/icones/ajuda_22x22.png) 50% 50% no-repeat }
+.IconeNavegacaoAvancar { background: url(../img/icones/setaAvancar_22x22.png) 50% 50% no-repeat }
+.IconeNavegacaoAvancarDesabilitado { background: url(../img/icones/setaAvancarCinza_22x22.png) 50% 50% no-repeat }
+.IconeNavegacaoRetornar { background: url(../img/icones/setaRetornar_22x22.png) 50% 50% no-repeat }
+.IconeNavegacaoRetornarTudo { background: url(../img/icones/setaRetornarTudo_22x22.png) 50% 50% no-repeat }
+.IconePesquisar { background: url(../img/icones/pesquisar_22x22.png) 50% 50% no-repeat }
+.IconeLimpar { background: url(../img/icones/limpar_22x22.png) 50% 50% no-repeat }
+.IconeConfirmar { background: url(../img/icones/confirmar_22x22.png) 50% 50% no-repeat }
+.IconeAssociar { background: url(../img/icones/estrutura_24x24.png) 50% 50% no-repeat }
+.IconeConfigurar { background: url(../img/icones/engrenagem_22x22.png) 50% 50% no-repeat }
+.IconeCancelar { background: url(../img/icones/cencelar_22x22.png) 50% 50% no-repeat }
+.IconeImprimir { background: url(../img/icones/imprimir_22x22.png) 50% 50% no-repeat }
+.IconeGerarPlanilha { background: url(../img/icones/excel_30x30.png) 50% 50% no-repeat }
+.IconeCopiar { background: url(../img/icones/copiar_22x22.png) 50% 50% no-repeat }
+.IconeIncluirUsuario { background: url(../img/icones/incluirUsuario_22x22.png) 50% 50% no-repeat }
+.IconeReenviarEmail { background: url(../img/icones/emailReplay_22x22.png) 50% 50% no-repeat }
+
+/* Alinhamento do icone do calendario */
+.ui-datepicker-trigger  { margin-bottom: -6px}
+/* Alinhamento do icone (+) mais */
+.IconeObs { width:24px; display:inline-block; vertical-align:middle; margin:0 4px; padding:3px; }
+
+/* icones 24x24 */
+.linkIconeUpload { display: inline-block; }
+.icone24x24 { display: block; width: 24px; height: 24px; padding: 2px; margin: 0 auto; cursor: pointer; }
+.iconeEnviar { background: url("../img/icones/Accept-icon.png") 50% 50% no-repeat; }
+.iconeExcluir { background: url("../img/icones/close-icon.png") 50% 50% no-repeat; }
+.iconeExcel { background: url("../img/icones/Excel-icon.png") 50% 50% no-repeat; }
+
+/* ajustes --> tabelas, formularios */
+input.CampoVazio, select.CampoVazio, textarea.CampoVazio, div.CampoVazio{ 
+    background:#fef1ec; 
+    border:1px solid #cd0a0a; 
+}
+
+input[type=file]{
+    width: 500px;
+    display: inline-block;   
+    border: 1px solid #eee; 
+    padding: 6px 8px; 
+    vertical-align: middle;
+}
+
+#mensagemCep {
+    display:inline-block; 
+    vertical-align:middle; 
+    margin:0 4px; 
+}
+
+.alinhaCampoForm { 
+    width: 100%; 
+    margin: 0 auto;
+    padding: 0;
+}
+
+.alinhaCampoForm ul { 
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.alinhaCampoForm ul li {
+    position: relative;
+    display: inline;
+    float: left;
+    padding-right: 10px;
+}
+
+.formataCampoSelectForm {
+    vertical-align:middle;
+    float:left; 
+    margin:0;
+    padding:2px 3px;
+    border:1px solid #ddd; 
+    background:#fff; 
+}
+
+.formataCampoSelectErroForm{
+    padding:0;
+    border:1px solid #fef1ec; 
+    background:#fef1ec;
+}
+
+.labelDe, .labelAte { 
+    display: inline-block; 
+    color: #384884;
+    font-size: 14px;
+}
+
+.labelAte { 
+    margin-left: 10px; 
+}
+
+
+/* campos formulario */
+.exibirH3 { margin-bottom: 0px; margin-top: -5px; color: #09445D}
+.cpf { width: 151px; }
+.periodoDe, .periodoAte { width: 120px; }
+.selectConsulta { width: 100%;}
+.divSelectConsulta { width: 90%;}
+.divSelectDetalhes { width: 31.2%;}
+.parametros { width: 88.5%;}
+.dadosInfo  { width: 30%;}
+.dadosInfo2 { width: 58%;}
+input.dadosVenda88  { width: 97.2%;}
+input.dadosVenda90  { width: 90%;}
+input.dadosVenda93  { width: 93%;}
+input.dadosVenda79  { width: 92.6%;}
+input.dadosVenda77  { width: 86%;}
+input.dadosVenda70  { width: 93%;}
+input.dadosVenda56  { width: 79%;}
+input.dadosVenda30  { width: 36.7%;}
+input.dadosVenda8   { width: 8%;}
+input.dadosVenda5   { width: 5%;}
+input.dadosVendaMod78 { width: 78%;}
+input.dadosVendaMod65 { width: 64.7%;}
+input.dadosVendaMod64 { width: 63.8%;}
+input.dadosVendaMod20 { width: 20.3%;}
+input.dadosVendaMod7  { width: 7%;}
+.motivoRecusaConfig   { padding-left: 35px; margin-bottom: 20px; width: 820px; border: none}
+
+
+/* dialogos */
+/* ATENCAO: sempre que for usar um dialogo, verificar se o icone existe na pasta */
+.dialogoErro, 
+.dialogoAlerta, 
+.dialogoSucesso, 
+.dialogoInformacao, 
+.dialogoArquivo, 
+.dialogoDiretorio,
+.dialogoUsuario, 
+.dialogoGrupo, 
+.dialogoAjuda,
+.dialogoPergunta,
+.dialogoApagado, 
+.dialogoProcesso, 
+.dialogoAnotacao, 
+.dialogoDica, 
+.dialogoAjax {
+    background-repeat:   no-repeat;
+    background-position: 10px 10px;
+    padding:             18px 10px 10px 50px;
+    min-height:          35px;
+    font-size:           12px;
+    width:               70%;
+    text-align:          justify;
+}
+
+.dialogoErro {
+    background-image: url(../img/icones/erro_32x32.png);
+    color: #384884;
+}
+
+.dialogoAlerta {
+    background-image: url(../img/icones/alerta_32x32.png);
+    color: #384884;
+}
+
+.dialogoSucesso {
+    background-image: url(../img/icones/confirmar_32x32.png);
+    color: #384884;
+}
+
+.dialogoInformacao {
+    background-image: url(../img/dialogos/infoGr.gif);
+    color: #384884;
+}
+
+.dialogoArquivo {
+    background-image: url(../img/dialogos/arquivoGr.gif);
+    color: #384884;
+}
+
+.dialogoDiretorio {
+    background-image: url(../img/dialogos/diretorioGr.gif);
+    color: #384884;
+}
+
+.dialogoUsuario {
+    background-image: url(../img/dialogos/usuarioGr.gif);
+}
+
+.dialogoGrupo {
+    background-image: url(../img/dialogos/grupoGr.gif);
+    color: #384884;
+}
+
+.dialogoAjuda {
+    background-image: url(../img/icones/ajuda_32x32.png);
+    color: #384884;
+}
+
+.dialogoPergunta {
+    background-image: url(../img/icones/ajuda_32x32.png);
+    color: #384884;
+}
+
+.dialogoApagado {
+    background-image: url(../img/dialogos/lixoGr.gif);
+    color: #384884;
+}
+
+.dialogoProcesso {
+    background-image: url(../img/dialogos/execucaoGr.png);
+    color: #384884;
+}
+
+.dialogoAnotacao {
+    background-image: url(../img/dialogos/afazerGr.png);
+    color: #384884;
+}
+
+.dialogoDica {
+    background-image: url(../img/dialogos/dicaGr.png);
+    color: #384884;
+}
+
+.dialogoAjax {
+    background-image: url(../img/dialogos/ajaxLoaderGr.gif);
+    padding-left: 80px;
+    font-weight: bold; 
+    font-size: 16px;
+}
+
+.mensagemOk {
+    display: inline-block;
+    margin-left: 40px;
+    color: #384884;
+    font-weight: bolder;
+}
+
+.mensagemErro {
+    display: inline-block;
+    margin-left: 40px;
+    color: #C00;
+    font-weight: bolder;
+}
+
+#mensagemCpf {
+    display:inline-block; 
+    vertical-align:middle; 
+    margin:0 4px; 
+}
+
+.info{     
+    padding: 0 0 0 50px; 
+    margin: 5px auto;
+    color: #555;
+    font-size: 14px;
+    border: 1px solid #ccc; 
+    background: #eee url(../img/dialogos/dicaGr.png) 10px 50% no-repeat;
+}
+
+.infoAviso{       
+    padding: 0 0 0 50px; 
+    margin: 5px auto;
+    color: #384884;
+    font-size: 14px;
+    border: 1px solid #fcefa1;
+    background: #fbf9ee url(../img/dialogos/dicaGr.png) 10px 2px no-repeat;
+}
+
+.infoAviso p{ 
+    padding: 0;
+    margin: 10px 0;
+}
+
+input:focus, select:focus, textarea:focus {
+    background: #CCD1E1;
+    border:1px solid #384884;
+}
+
+table.tabelaReadWrite {    
+    width: 820px;
+    margin: 0 auto;
+}
+
+table.tabelaReadWrite2 {    
+    width: 100%;
+    margin: 0 auto;
+}
+
+table.tabelaReadOnly {
+    width: 820px;   
+    margin: 0 auto 0 -20px;   
+}
+
+table.tabelaReadOnly tbody td.label {
+    width: 20%;
+}
+
+table.tabelaReadOnly tbody td{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.labelReadOnly {
+    color: #384884;
+    font-size: 14px;
+    margin-left: 4px;
+}
+
+.MsgConfirmar{
+    display: block; 
+    /*padding: 12px 0; */
+    text-align: center; 
+    font-weight: bold;
+}
+
+.pdf div {
+    margin: 10px;
+    color: #384884;
+    font-weight: bolder;
+    text-align: right;
+}    
+
+#carregar {
+    font-size: 20px;
+    color: #384884;
+    font-weight: bolder;
+}
+
+/* - UPLOAD ------------------------------------------------------------------------------------ */
+.uploadOculto {
+    border: 1px solid #fcefa1; 
+    background: #fbf9ee;
+}
+
+.uploadOculto table td { 
+    padding: 4px 10px; 
+    text-align: left; 
+    border: 1px solid #eee;
+    border: 1px 0;
+}
+
+.uploadOculto table .botoes { 
+    text-align: right; 
+}

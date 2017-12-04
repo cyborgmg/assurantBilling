@@ -1,0 +1,51 @@
+package br.com.delphos.billing.main;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.apache.commons.lang.time.DateUtils;
+import org.w3c.dom.Document;
+
+public class Main {
+	
+	public static Document parse (InputStream is) {
+        Document ret = null;
+        DocumentBuilderFactory domFactory;
+        DocumentBuilder builder;
+ 
+        try {
+            domFactory = DocumentBuilderFactory.newInstance();
+            domFactory.setValidating(false);
+            domFactory.setNamespaceAware(false);
+            builder = domFactory.newDocumentBuilder();
+ 
+            ret = builder.parse(is);
+        }
+        catch (Exception ex) {
+            System.out.println("unable to load XML: " + ex);
+        }
+        return ret;
+    }
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		//System.out.println( new SimpleDateFormat("dd/MM/yyyy").format(new Date()) );
+		//System.out.println( new SimpleDateFormat("dd/MM/yyyy").format( DateUtils.addYears((new Date()), 1)) );		
+		//System.out.println( new SimpleDateFormat("MM/yyyy").format( DateUtils.addYears((new Date()), 2)) );
+		
+		
+		URL xmlUrl = new URL("file:///home/me/myfile.xml");
+		InputStream in = xmlUrl.openStream();
+		Document doc = parse(in);
+		
+		
+	}
+
+}

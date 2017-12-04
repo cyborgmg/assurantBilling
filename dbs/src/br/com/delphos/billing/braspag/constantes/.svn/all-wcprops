@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Delphos/!svn/ver/33577/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes
+END
+StatusTransacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Delphos/!svn/ver/29911/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/StatusTransacao.java
+END
+StatusTransacaoCartaoCredito.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Delphos/!svn/ver/31255/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/StatusTransacaoCartaoCredito.java
+END
+Moeda.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Delphos/!svn/ver/29911/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/Moeda.java
+END
+PlanoPagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Delphos/!svn/ver/29911/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/PlanoPagamento.java
+END
+AdquirenteConciliacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Delphos/!svn/ver/33308/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/AdquirenteConciliacao.java
+END
+CodigoAdquirente.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Delphos/!svn/ver/31255/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/CodigoAdquirente.java
+END
+IdentificacaoCliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Delphos/!svn/ver/29911/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/IdentificacaoCliente.java
+END
+TipoTransacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Delphos/!svn/ver/29911/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/TipoTransacao.java
+END
+StatusTransacaoConsulta.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Delphos/!svn/ver/33577/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/StatusTransacaoConsulta.java
+END
+Pais.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Delphos/!svn/ver/29911/Desenv/Projetos/Web/Java/Billing/dbs/dbs/trunk/src/br/com/delphos/billing/braspag/constantes/Pais.java
+END

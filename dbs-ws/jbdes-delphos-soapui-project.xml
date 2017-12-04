@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="7f388d71-189a-4124-87e0-fb5edc6e6413" activeEnvironment="Default" name="jbdes.delphos" resourceRoot="" soapui-version="5.2.1" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:WsdlInterface" id="a76a1577-96d3-4b13-abf0-557712d30456" wsaVersion="NONE" name="BillingServiceBeanServiceSoapBinding" type="wsdl" bindingName="{http://delphos.com.br/billing}BillingServiceBeanServiceSoapBinding" soapVersion="1_1" anonymous="optional" definition="http://jbdes.delphos.mtz/dbs/servico?wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="http://jbdes.delphos.mtz/dbs/servico?wsdl"><con:part><con:url>http://jbdes.delphos.mtz/dbs/servico?wsdl</con:url><con:content><![CDATA[<wsdl:definitions name="BillingServiceBeanService" targetNamespace="http://delphos.com.br/billing" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://delphos.com.br/billing" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http">
+  <wsdl:types>
+    <xs:schema attributeFormDefault="unqualified" elementFormDefault="unqualified" targetNamespace="http://delphos.com.br/billing" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="cancelarVenda" type="tns:cancelarVenda"/>
+      <xs:element name="cancelarVendaResponse" type="tns:cancelarVendaResponse"/>
+      <xs:element name="iniciarVendaCartaoCredito" type="tns:iniciarVendaCartaoCredito"/>
+      <xs:element name="iniciarVendaCartaoCreditoResponse" type="tns:iniciarVendaCartaoCreditoResponse"/>
+      <xs:complexType name="iniciarVendaCartaoCredito">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="token" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoEmpresa" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoProduto" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoSistema" type="xs:string"/>
+          <xs:element minOccurs="0" name="cpf" type="xs:string"/>
+          <xs:element minOccurs="0" name="nome" type="xs:string"/>
+          <xs:element minOccurs="0" name="email" type="xs:string"/>
+          <xs:element minOccurs="0" name="dddCelular" type="xs:string"/>
+          <xs:element minOccurs="0" name="telefoneCelular" type="xs:string"/>
+          <xs:element minOccurs="0" name="dddContato" type="xs:string"/>
+          <xs:element minOccurs="0" name="telefoneContato" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoVenda" type="xs:string"/>
+          <xs:element minOccurs="0" name="dataVenda" type="xs:string"/>
+          <xs:element minOccurs="0" name="bandeiraCartao" type="xs:string"/>
+          <xs:element minOccurs="0" name="cpfPortadorCartao" type="xs:string"/>
+          <xs:element minOccurs="0" name="nomePortadorCartao" type="xs:string"/>
+          <xs:element minOccurs="0" name="numeroCartao" type="xs:string"/>
+          <xs:element minOccurs="0" name="vencimentoCartao" type="xs:string"/>
+          <xs:element minOccurs="0" name="cvvCartao" type="xs:string"/>
+          <xs:element minOccurs="0" name="tipoCobranca" type="xs:string"/>
+          <xs:element minOccurs="0" name="quantidadeParcelas" type="xs:string"/>
+          <xs:element minOccurs="0" name="valorCobranca" type="xs:string"/>
+          <xs:element minOccurs="0" name="dataPrimeiraCobranca" type="xs:string"/>
+          <xs:element minOccurs="0" name="dataFimVigencia" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="iniciarVendaCartaoCreditoResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:retornoIniciarVendaCartaoCredito"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="retornoIniciarVendaCartaoCredito">
+        <xs:complexContent>
+          <xs:extension base="tns:retornoBillingService">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="codigoProduto" type="xs:string"/>
+              <xs:element minOccurs="0" name="codigoVenda" type="xs:string"/>
+              <xs:element minOccurs="0" name="codigoVendaBilling" type="xs:string"/>
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType abstract="true" name="retornoBillingService">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="retorno" type="xs:string"/>
+          <xs:element minOccurs="0" name="mensagemRetorno" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoErro" type="xs:string"/>
+          <xs:element minOccurs="0" name="mensagemErro" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cancelarVenda">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="codigoEmpresa" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoProduto" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoSistema" type="xs:string"/>
+          <xs:element minOccurs="0" name="token" type="xs:string"/>
+          <xs:element minOccurs="0" name="cpf" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoVenda" type="xs:string"/>
+          <xs:element minOccurs="0" name="codigoMotivoCancelamento" type="xs:string"/>
+          <xs:element minOccurs="0" name="valorEstorno" type="xs:string"/>
+          <xs:element minOccurs="0" name="flagCancelamentoGateway" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cancelarVendaResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:retornoCancelarVenda"/>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="retornoCancelarVenda">
+        <xs:complexContent>
+          <xs:extension base="tns:retornoBillingService">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="codigoProduto" type="xs:string"/>
+              <xs:element minOccurs="0" name="codigoVenda" type="xs:string"/>
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:element name="falhaServico" type="tns:falhaServico"/>
+      <xs:complexType name="falhaServico">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="codigoErro" type="xs:string"/>
+          <xs:element minOccurs="0" name="mensagemErro" type="xs:string"/>
+          <xs:element minOccurs="0" name="message" type="xs:string"/>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="cancelarVenda">
+    <wsdl:part element="tns:cancelarVenda" name="parameters"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="iniciarVendaCartaoCredito">
+    <wsdl:part element="tns:iniciarVendaCartaoCredito" name="parameters"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="BillingWebServiceException">
+    <wsdl:part element="tns:falhaServico" name="BillingWebServiceException"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="cancelarVendaResponse">
+    <wsdl:part element="tns:cancelarVendaResponse" name="parameters"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="iniciarVendaCartaoCreditoResponse">
+    <wsdl:part element="tns:iniciarVendaCartaoCreditoResponse" name="parameters"></wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="billing">
+    <wsdl:operation name="iniciarVendaCartaoCredito">
+      <wsdl:input message="tns:iniciarVendaCartaoCredito" name="iniciarVendaCartaoCredito"></wsdl:input>
+      <wsdl:output message="tns:iniciarVendaCartaoCreditoResponse" name="iniciarVendaCartaoCreditoResponse"></wsdl:output>
+      <wsdl:fault message="tns:BillingWebServiceException" name="BillingWebServiceException"></wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarVenda">
+      <wsdl:input message="tns:cancelarVenda" name="cancelarVenda"></wsdl:input>
+      <wsdl:output message="tns:cancelarVendaResponse" name="cancelarVendaResponse"></wsdl:output>
+      <wsdl:fault message="tns:BillingWebServiceException" name="BillingWebServiceException"></wsdl:fault>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BillingServiceBeanServiceSoapBinding" type="tns:billing">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="iniciarVendaCartaoCredito">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="iniciarVendaCartaoCredito">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="iniciarVendaCartaoCreditoResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="BillingWebServiceException">
+        <soap:fault name="BillingWebServiceException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="cancelarVenda">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="cancelarVenda">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="cancelarVendaResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="BillingWebServiceException">
+        <soap:fault name="BillingWebServiceException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="BillingServiceBeanService">
+    <wsdl:port binding="tns:BillingServiceBeanServiceSoapBinding" name="BillingPort">
+      <soap:address location="http://jbdes.delphos.mtz:80/dbs/servico"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://jbdes.delphos.mtz:80/dbs/servico</con:endpoint></con:endpoints><con:operation id="ca5d5971-0fc7-4844-a891-35816387004e" isOneWay="false" action="" name="cancelarVenda" bindingOperationName="cancelarVenda" type="Request-Response" outputName="cancelarVendaResponse" inputName="cancelarVenda" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="55f072f1-2c98-4463-994a-ff247fc82c7b" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://jbdes.delphos.mtz:80/dbs/servico</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bil="http://delphos.com.br/billing">
+  <soapenv:Header/>
+  <soapenv:Body>
+     <bil:cancelarVenda>
+        <!--Optional:-->
+        <codigoEmpresa>AIZ</codigoEmpresa>
+        <!--Optional:-->
+        <codigoProduto>PYB</codigoProduto>
+        <!--Optional:-->
+        <codigoSistema>BMS</codigoSistema>
+        <!--Optional:-->
+        <token>6724224222423412726221723523412724226124999229206221206206206229</token>
+        <!--Optional:-->
+        <cpf>98324985972</cpf>
+        <!--Optional:-->
+        <codigoVenda>TST-DPH-001</codigoVenda>
+        <!--Optional:-->
+        <codigoMotivoCancelamento>001</codigoMotivoCancelamento>
+        <!--Optional:-->
+        <valorEstorno>-1</valorEstorno>
+        <!--Optional:-->
+        <flagCancelamentoGateway>S</flagCancelamentoGateway>
+     </bil:cancelarVenda>
+  </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://delphos.com.br/billing/billing/cancelarVenda"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="74293ddd-7df2-4b14-b901-e4214f67c17a" isOneWay="false" action="" name="iniciarVendaCartaoCredito" bindingOperationName="iniciarVendaCartaoCredito" type="Request-Response" outputName="iniciarVendaCartaoCreditoResponse" inputName="iniciarVendaCartaoCredito" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="72c9bb9b-b070-43f1-8b42-9a5a6e1df244" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://jbdes.delphos.mtz:80/dbs/servico</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bil="http://delphos.com.br/billing">
+<soapenv:Header/>
+  <soapenv:Body>
+  <bil:iniciarVendaCartaoCredito>
+     <!--Optional:-->
+        <token>6724224222423412726221723523412724226124999229206221206206206229</token>
+        <!--Optional:-->
+        <codigoEmpresa>AIZ</codigoEmpresa>
+        <!--Optional:-->
+        <codigoProduto>PYB</codigoProduto>
+        <!--Optional:-->
+        <codigoSistema>BMS</codigoSistema>
+        <!--Optional:-->
+        <cpf>50434483346</cpf>
+        <!--Optional:-->
+        <nome>MACHADO DE ASSIS</nome>
+        <!--Optional:-->
+        <email>teste@teste.com</email>
+        <!--Optional:-->
+        <dddCelular>21</dddCelular>
+        <!--Optional:-->
+        <telefoneCelular>99588562</telefoneCelular>
+        <!--Optional:-->
+        <dddContato>21</dddContato>
+        <!--Optional:-->
+        <telefoneContato>22730419</telefoneContato>
+        <!--Optional:-->
+        <codigoVenda>TST-DPH-001</codigoVenda>
+        <!--Optional:-->
+        <dataVenda>10/11/2015</dataVenda>
+        <!--Optional:-->
+        <bandeiraCartao>01</bandeiraCartao>
+        <!--Optional:-->
+        <cpfPortadorCartao>88523123822</cpfPortadorCartao>
+        <!--Optional:-->
+        <nomePortadorCartao>MACHADO DE ASSIS</nomePortadorCartao>
+        <!--Optional:-->
+        <numeroCartao>0000000000000001</numeroCartao>
+        <!--Optional:-->
+        <vencimentoCartao>02/2017</vencimentoCartao>
+        <!--Optional:-->
+        <cvvCartao>111</cvvCartao>
+        <!--Optional:-->
+        <tipoCobranca>002</tipoCobranca>
+        <!--Optional:-->
+        <quantidadeParcelas>10</quantidadeParcelas>
+        <!--Optional:-->
+        <valorCobranca>55416</valorCobranca>
+        <!--Optional:-->
+        <dataPrimeiraCobranca>10/11/2015</dataPrimeiraCobranca>
+        <!--Optional:-->
+        <dataFimVigencia>10/11/2016</dataFimVigencia>
+     </bil:iniciarVendaCartaoCredito>
+  </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://delphos.com.br/billing/billing/iniciarVendaCartaoCredito"/><con:wsrmConfig version="1.2"/></con:call></con:operation></con:interface><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/></con:soapui-project>
